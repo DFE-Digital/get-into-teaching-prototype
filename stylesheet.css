@@ -1,0 +1,27 @@
+.navbar {
+  padding-left : 0;
+  padding-right : 0;
+}
+
+.navbar .brand-text {
+  color: black;
+  margin-left: 2rem;
+}
+
+.container .jumbotron {
+    padding: 1rem 1rem .1rem 1rem;
+    border-radius: 0;
+}
+
+header .nav {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.container h1 {
+  text-align: center;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  border: 1px solid grey;
+  background-color: #fafafa;
+}
