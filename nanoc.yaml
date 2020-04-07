@@ -7,7 +7,7 @@ output_dir: output
 
 index_filenames: [ 'index.html' ]
 
-base_url: 'http://127.0.0.1:3000'
+base_url: 'https://dfe-digital.github.io/get-into-teaching-prototype'
 
 enable_output_diff: false
 
@@ -24,3 +24,8 @@ data_sources:
     encoding: utf-8
 
 string_pattern_type: glob
+
+deploy:
+  default:
+    kind: git
+    branch: gh-pages

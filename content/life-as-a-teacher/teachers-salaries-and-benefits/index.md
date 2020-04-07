@@ -6,6 +6,7 @@ backlink: "../"
 ##Teacher salaries
 
 As a newly qualified teacher you’ll earn £24,373.
+
 This could be up to £30,480 if you work in inner London.
 
 ###Experienced teachers
@@ -30,9 +31,9 @@ You could get payments of up to £9k after tax when you start teaching. You’ll
 
 You'll get early-career payments if you have:
 
-completed a non-salaried teacher training course
-received a bursary or scholarship in the academic year 2020/21
-taught in a state-funded school in England since finishing your teacher training course
+  - completed a non-salaried teacher training course
+  - received a bursary or scholarship in the academic year 2020/21
+  - taught in a state-funded school in England since finishing your teacher training course
 
 You’ll get 3 additional early-career payments of £2k each in your second, third and fourth year of teaching. You may get £3k each year if you teach in certain areas. Find out more.
 
@@ -52,8 +53,8 @@ Find out more about eligibility criteria, payment rates, participating local aut
 
 The Teachers’ Pension Scheme gives you a regular source of income when you retire. It is:
 
-based on your salary and service rather than investments so there will be no surprises about what you’ll get
-registered with HM Revenue and Customs - so you don’t pay tax on contributions
-flexible and allows you to take some of it as a tax-free lump sum
+  - based on your salary and service rather than investments so there will be no surprises about what you’ll get
+  - registered with HM Revenue and Customs - so you don’t pay tax on contributions
+  - flexible and allows you to take some of it as a tax-free lump sum
 
 Find out more from Teachers’ Pensions.

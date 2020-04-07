@@ -1,6 +1,6 @@
 ---
 title: "Life as a teacher"
-backlink: "/"
+backlink: "../"
 ---
 
 <div class="jumbotron">
