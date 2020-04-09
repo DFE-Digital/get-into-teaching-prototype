@@ -5,8 +5,8 @@ backlink: "../"
 
   - [Choose a course](#choose-a-course)
   - [Write your personal statement](#write-your-personal-statement)
-  - [Get two references](get-two-references)
-  - [Apply for teacher training](apply-for-teacher-training)
+  - [Get two references](#get-two-references)
+  - [Apply for teacher training](#apply-for-teacher-training)
 
 ##Choose a course
 Do some research before you decide on a school or university.
