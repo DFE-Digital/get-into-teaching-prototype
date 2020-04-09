@@ -13,7 +13,7 @@ enable_output_diff: false
 
 prune:
   auto_prune: true
-  exclude: [ '.git', '.hg', '.svn', 'CVS' ]
+  exclude: [ '.git' ]
 
 commands_dirs: [ '../shared-commands' ]
 
@@ -24,6 +24,12 @@ data_sources:
     encoding: utf-8
 
 string_pattern_type: glob
+
+content_dir: content
+layouts_dir: layouts
+encoding: utf-8
+extra_files:
+  - "**/.htaccess"
 
 deploy:
   default:

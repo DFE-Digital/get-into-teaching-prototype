@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://dfe-digital.github.io/get-into-teaching-prototype/stylesheet.css">
+    <link rel="stylesheet" href="<%= relative_path_to('/assets/styles/main.css') %>">
 
     <title>Get into teaching: <%= @item[:title] %></title>
   </head>
@@ -22,19 +22,19 @@
 
       <ul class="nav nav-fill mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="https://dfe-digital.github.io/get-into-teaching-prototype/life-as-a-teacher">Life as a teacher</a>
+          <a class="nav-link" href="<%= relative_path_to('/life-as-a-teacher') %>">Life as a teacher</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://dfe-digital.github.io/get-into-teaching-prototype/how-to-become-a-teacher">How to become a teacher</a>
+          <a class="nav-link" href="<%= relative_path_to('/how-to-become-a-teacher') %>">How to become a teacher</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://dfe-digital.github.io/get-into-teaching-prototype/funding-your-training">Funding your training</a>
+          <a class="nav-link" href="<%= relative_path_to('/funding-your-training') %>">Funding your training</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://dfe-digital.github.io/get-into-teaching-prototype/how-to-apply">How to apply</a>
+          <a class="nav-link" href="<%= relative_path_to('/how-to-apply') %>">How to apply</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://dfe-digital.github.io/get-into-teaching-prototype/find-an-event-near-you">Find an event near you</a>
+          <a class="nav-link" href="<%= relative_path_to('/find-an-event-near-you') %>">Find an event near you</a>
         </li>
       </ul>
     </header>

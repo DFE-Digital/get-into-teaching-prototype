@@ -1,6 +1,6 @@
 ---
 title: "Teachers' salaries and benefits"
-backlink: "../"
+backlink: "../../"
 ---
 
 ##Teacher salaries
@@ -21,7 +21,7 @@ Lead practitioners share their skills with other teachers. In this role you will
 
 Headteachers lead, motivate and manage staff. In this role you will earn between £46,357 to £114,060. This could be up to £121,749 if you work in inner London.
 
-Find the full list of teacher salary scales in England from NASUWT The Teachers Union.
+[Find the full list of teacher salary scales in England from NASUWT The Teachers Union](#).
 
 ##Teacher benefits
 
@@ -47,7 +47,7 @@ When you start teaching, you can claim back the student loan payments you made t
   - physics
   - computer science
 
-Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK.
+[Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK](#).
 
 ###Teachers’ Pension Scheme
 
@@ -57,4 +57,4 @@ The Teachers’ Pension Scheme gives you a regular source of income when you ret
   - registered with HM Revenue and Customs - so you don’t pay tax on contributions
   - flexible and allows you to take some of it as a tax-free lump sum
 
-Find out more from Teachers’ Pensions.
+[Find out more from Teachers’ Pensions](#).

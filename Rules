@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+# compile HTML as raw content added to the default layout
 compile '/**/*.html' do
   layout '/default.*'
 
@@ -10,10 +11,7 @@ compile '/**/*.html' do
   end
 end
 
-# This is an example rule that matches Markdown (.md) files, and filters them
-# using the :kramdown filter. It is commented out by default, because kramdown
-# is not bundled with Nanoc or Ruby.
-
+# compile markdown with kramdown
 compile '/**/*.md' do
   filter :kramdown
   layout '/default.html.erb'
@@ -25,14 +23,16 @@ compile '/**/*.md' do
   end
 end
 
-# compile the sitemap.erb and put the compiled content under sitemap.xml in root
+# compile sitemap.erb and put the compiled content under sitemap.xml in root
 compile '/sitemap/sitemap.erb' do
   filter :erb
   write item.identifier.without_ext.to_s.sub('/sitemap', '') + '.xml'
 end
 
+# compile everything else as raw content copied to the output folder
 compile '/**/*' do
   write item.identifier.to_s
 end
 
+# use erb as the layout template language
 layout '/**/*', :erb
