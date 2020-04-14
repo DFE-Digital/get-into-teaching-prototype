@@ -24,6 +24,7 @@
 
 body {
   margin: 16px 24px;
+
   font-family: "akzidenz-grotesk", sans-serif;
   font-size: 16px;
   line-height: 22px;
@@ -42,42 +43,94 @@ a {
   text-decoration: underline;
 }
 
-h1, h2, h3, h4, p {
+.action {
+  margin: 36px 0;
+  padding: 16px 9px;
+  display: block;
+
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+
+  color: white;
+  background-color: #3986C4;
+}
+
+.start {
+  margin: 24px 0;
+  padding: 16px 9px;
+  display: block;
+
+  font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+
+  color: white;
+  background-color: #3986C4;
+}
+
+.start .arrow {
+  float: right;
+  display: block;
+  width: 24px;
+
+  text-align: center;
+}
+
+h1, h2, h3, h4, p, ul, ol {
   margin: 0 0 16px;
   padding: 0;
 }
 
 h1 {
-  margin: 0 -25px 35px;
-  padding: 24px 100px 24px 24px;
+  margin: 9px 0 35px;
 
   font-size: 35px;
   line-height: 41px;
-  text-decoration: underline;
 
-  color: white;
-  background-color: #7E58A0;
+  text-decoration: underline;
 }
 
 h2 {
-  margin: 0 0 24px;
+  margin: 9px 0 24px;
 
   font-size: 24px;
   line-height: 31px;
 }
 
 h3 {
-  margin: 0 0 20px;
+  margin: 9px 0 20px;
 
   font-size: 20px;
   line-height: 26px;
 }
 
 h4 {
-  margin: 0 0 18px;
+  margin: 9px 0 18px;
 
   font-size: 18px;
   line-height: 24px;
+}
+
+h1,
+.stand-out {
+  margin-top: 19px;
+  margin-left: -25px;
+  margin-right: -25px;
+  padding: 16px 100px 12px 24px;
+
+  color: white;
+  background-color: #7E58A0;
+}
+
+h1 {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+li {
+  margin: 0 0 0 16px;
+  padding: 0;
 }
 
 .brand-text {
