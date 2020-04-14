@@ -1,6 +1,8 @@
 @font-face { font-family: 'akzidenz-grotesk'; src: url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.eot?") format("eot"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.woff") format("woff"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.ttf") format("truetype"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.svg#Free3of9") format("svg"); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'akzidenz-grotesk'; src: url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.eot?") format("eot"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.woff") format("woff"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.ttf") format("truetype"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.svg#Free3of9") format("svg"); font-weight: bold; font-style: normal; }
-body { margin: 16px 24px; font-family: "akzidenz-grotesk", sans-serif; font-size: 16px; line-height: 22px; }
+body { margin: 16px 24px; font-family: "akzidenz-grotesk", sans-serif; font-size: 16px; line-height: 22px; color: #3a3a3a; }
+
+header, footer, main { display: block; width: 325px; margin: 0 auto; overflow: hidden; padding-left: 25px; padding-right: 25px; }
 
 strong, b, h1, h2, h3, h4 { font-weight: bold; }
 
@@ -24,11 +26,15 @@ h3 { margin: 9px 0 20px; font-size: 20px; line-height: 26px; }
 
 h4 { margin: 9px 0 18px; font-size: 18px; line-height: 24px; }
 
-h1, .stand-out { margin-top: 19px; margin-left: -25px; margin-right: -25px; padding: 16px 100px 12px 24px; color: white; background-color: #7E58A0; }
+h1, .stand-out { margin-top: 19px; margin-left: -30px; margin-right: -30px; padding: 16px 100px 12px 30px; color: white; background-color: #7E58A0; -ms-transform: rotate(-2deg); /* IE 9 */ transform: rotate(-2deg); /* Standard syntax */ }
 
-h1 { padding-top: 35px; padding-bottom: 35px; }
+h1 { margin-top: -10px; padding-top: 35px; padding-bottom: 35px; }
 
 li { margin: 0 0 0 16px; padding: 0; }
+
+.header-image { display: block; margin-top: 19px; }
+
+.header-image img { margin-left: -25px; width: 375px; }
 
 .brand-text { display: none; }
 
@@ -37,5 +43,11 @@ li { margin: 0 0 0 16px; padding: 0; }
 .related p { margin: 0 0 24px; font-weight: bold; }
 
 .related a { color: white; }
+
+nav, nav ul, nav li, nav a { display: block; margin: 0; padding: 0; overflow: visible; }
+
+header nav { margin-top: 24px; }
+
+nav a { padding: 6px 0; font-size: 20px; text-decoration: none; color: black; }
 
 /*# sourceMappingURL=/assets/styles/main.css.map */
