@@ -3,28 +3,34 @@ title: "How to become a teacher"
 backlink: "../"
 ---
 
-##Initial teacher training (ITT)
-
 To become a primary or secondary school teacher in England you’ll need to do a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS).
 
 You’ll need QTS to teach in a state school in England. If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
 
-###If you do not have a degree
+<section class="related" markdown="1">
+  [If you do not have a degree](#if-you-do-not-have-a-degree)
+
+  [If you have A levels in maths or physics](#if-you-have-a-levels-in-maths-or-physics)
+</section>
+
+##If you do not have a degree
 
 You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses usually take 3 to 4 years and include:
 
   - Bachelor of Education degree (BEd)
   - Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS
 
-[Search UCAS to find a degree with QTS](#).
+<section class="related" markdown="1">
+  [Search UCAS to find a degree with QTS](#).
 
-[Get advice on how to get started from the Get into teaching service](#).  
+  [Get advice on how to get started from the Get into teaching service](#).
+</section>
 
-####If you have A levels in maths or physics
+##If you have A levels in maths or physics
 
 If you want to teach maths or physics you could apply to Future Teaching Scholars. You’ll need A levels at grade B or above in maths or physics. You’ll choose to study a maths or physics degree, followed by specialist teacher training. You’ll get a grant of up to £15,000 to support you during your degree.
 
-##Step-by-step guide to becoming a teacher
+<h2 class="stand-out">Step-by-step guide to becoming a teacher</h2>
 
 ###1. Check your qualifications
 
@@ -79,7 +85,7 @@ You’ll find it useful to get some classroom experience. You’ll see teaching 
 
 Your experience can help you decide whether teaching is right for you.
 
-[Use the Get school experience service](https://schoolexperience.education.gov.uk).
+<a href="https://schoolexperience.education.gov.uk" class="action">Get school experience</a>
 
 ###3. Decide how to train
 
@@ -92,7 +98,7 @@ Both types of training will give you lots of classroom experience and the knowle
 
 ###4. Apply for training
 
-[Find out how to apply for training](/child-page-on-apply)
+<a href="/child-page-on-apply" class="start">Find out how to apply for training <span class="arrow">></span></a>
 
 Related content
 
