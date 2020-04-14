@@ -1,27 +1,41 @@
-.navbar {
-  padding-left : 0;
-  padding-right : 0;
-}
+@font-face { font-family: 'akzidenz-grotesk'; src: url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.eot?") format("eot"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.woff") format("woff"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.ttf") format("truetype"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.svg#Free3of9") format("svg"); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'akzidenz-grotesk'; src: url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.eot?") format("eot"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.woff") format("woff"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.ttf") format("truetype"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.svg#Free3of9") format("svg"); font-weight: bold; font-style: normal; }
+body { margin: 16px 24px; font-family: "akzidenz-grotesk", sans-serif; font-size: 16px; line-height: 22px; }
 
-.navbar .brand-text {
-  color: black;
-  margin-left: 2rem;
-}
+strong, b, h1, h2, h3, h4 { font-weight: bold; }
 
-.container .jumbotron {
-    padding: 1rem 1rem .1rem 1rem;
-    border-radius: 0;
-}
+em, i { font-style: italic; }
 
-header .nav {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
+a { color: #3986C4; text-decoration: underline; }
 
-.container h1 {
-  text-align: center;
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  border: 1px solid grey;
-  background-color: #fafafa;
-}
+.action { margin: 36px 0; padding: 16px 9px; display: block; font-size: 24px; text-align: center; text-decoration: none; color: white; background-color: #3986C4; }
+
+.start { margin: 24px 0; padding: 16px 9px; display: block; font-size: 20px; text-align: left; text-decoration: none; color: white; background-color: #3986C4; }
+
+.start .arrow { float: right; display: block; width: 24px; text-align: center; }
+
+h1, h2, h3, h4, p, ul, ol { margin: 0 0 16px; padding: 0; }
+
+h1 { margin: 9px 0 35px; font-size: 35px; line-height: 41px; text-decoration: underline; }
+
+h2 { margin: 9px 0 24px; font-size: 24px; line-height: 31px; }
+
+h3 { margin: 9px 0 20px; font-size: 20px; line-height: 26px; }
+
+h4 { margin: 9px 0 18px; font-size: 18px; line-height: 24px; }
+
+h1, .stand-out { margin-top: 19px; margin-left: -25px; margin-right: -25px; padding: 16px 100px 12px 24px; color: white; background-color: #7E58A0; }
+
+h1 { padding-top: 35px; padding-bottom: 35px; }
+
+li { margin: 0 0 0 16px; padding: 0; }
+
+.brand-text { display: none; }
+
+.related { margin: 24px -24px 18px; padding: 34px 100px 10px 24px; color: white; background-color: #3986C4; font-size: 18px; line-height: 24px; }
+
+.related p { margin: 0 0 24px; font-weight: bold; }
+
+.related a { color: white; }
+
+/*# sourceMappingURL=/assets/styles/main.css.map */
