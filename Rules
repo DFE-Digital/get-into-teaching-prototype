@@ -1,5 +1,24 @@
 #!/usr/bin/env ruby
 
+# compile SASS as CSS content
+ignore '/**/_*.sass'
+[:default, :sourcemap].each do |rep_name|
+  compile '/**/*.{sass,scss}', rep: rep_name do
+    syntax = @item.identifier.ext.to_sym
+    path = @item.identifier.without_ext + '.css'
+    options = { syntax: syntax, style: :compact, css_path: path, sourcemap_path: path + '.map' }
+
+    case rep_name
+    when :default
+      filter :sass, options
+      write path
+    when :sourcemap
+      filter :sass_sourcemap, options
+      write path + '.map'
+    end
+  end
+end
+
 # compile HTML as raw content added to the default layout
 compile '/**/*.html' do
   layout '/default.*'

@@ -12,9 +12,11 @@ As a teacher you can help children develop their talents and expand your own ski
 
 In addition to the day job you can get involved in after-school activities, clubs, trips or sport.
 
-[Real stories of how people became teachers](./real-stories).
+<section class="related" markdown="1">
+  [Real stories of how people became teachers](./real-stories).
 
-[Find out about Teachers’ salaries and other financial benefits](./teachers-salaries-and-benefits).
+  [Find out about Teachers’ salaries and other financial benefits](./teachers-salaries-and-benefits).
+</section>
 
 ##Career progression
 Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.
