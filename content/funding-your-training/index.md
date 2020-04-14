@@ -8,6 +8,8 @@ Teacher training tuition fees cost up to £9,250 depending on how you decide to 
 <section class="related" markdown="1">
   [Find out about teacher training grants](#find-out-about-teacher-training-grants)
 
+  [Get help to apply for a scholarship](#get-help-to-apply-for-a-scholarship)
+
   [Get student finance](#get-student-finance)
 
   [Get financial help if you’re a parent, a carer or you have a disability](#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability)
@@ -48,7 +50,7 @@ If you have an unrelated degree, but you studied the subject you want to teach a
 
 <a href="#" class="start">Check if you can get a bursary <span class="arrow">&gt;</span></a>
 
-##Get help to apply for a scholarship
+<h2 id="get-help-to-apply-for-a-scholarship" class="stand-out">Get help to apply for a scholarship</h2>
 You can get help to apply for a scholarship by using our Teacher Training Adviser Service.  You can also contact the awarding body for your subject to find out more.
 
 | Scholarship subject | Awarding body |
