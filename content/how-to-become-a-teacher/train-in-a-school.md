@@ -36,4 +36,4 @@ You’ll need (or be about to finish) a doctorate in the subject you want to tea
 ##Assessment only (AO)
 If you’re a teaching assistant or unqualified teacher with two years’ experience you can be assessed over 12 weeks to get QTS. This way of getting QTS will not give you a PGCE. You’ll only need a PGCE if you want to do a master’s qualification or teach outside the UK.
 
-[Find a school-led teacher training course](#).
+[Find a school-led teacher training course](# "external")

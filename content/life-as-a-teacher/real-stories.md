@@ -1,10 +1,10 @@
 ---
-title: "Real stories - career changers"
+title: "Why I became a teacher"
 backlink: "../../"
 ---
 
 ##From senior associate lawyer to assistant headteacher  
-Helen Winter, director of teaching school and assistant headteacher  
+**Helen Winter, director of teaching school and assistant headteacher**
 
 Helen went on a journey to transition from lawyer to teacher - and hasn't looked back since. She is now on the same salary as she was as a senior associate lawyer. In addition, Helen’s progression to a leadership group teacher was also quick.
 Read Helen’s story
@@ -26,7 +26,7 @@ Two years after I qualified as a teacher, I was head of a department and learnin
 If you want a career that provides you with job satisfaction and swift progression, register with us to gain personalised support to help with your journey into teaching.
 
 ##Owen’s rapid career ascent
-Dr Owen Mather, leader of teaching standards
+**Dr Owen Mather, leader of teaching standards**
 
 Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder.
 Read Owen’s story
@@ -46,7 +46,8 @@ Owen recommends pursuing a career in teaching, particularly because of the amoun
 Why not emulate Owen’s ascent to leadership and apply for teacher training? It’s easier than you may think - with a tax-free bursary to train as a teacher. Register with us to access our dedicated advisers, who will support you with your career switch.
 
 ##Climbing the career ladder
-Paul Evason, assistant headteacher
+**Paul Evason, assistant headteacher**
+
 As a newly qualified teacher, Paul was keen to move up the teaching career ladder – now he’s reached assistant headteacher he shares his story on why he got into teaching and his tips on career progression.
 Read Paul’s story
 
@@ -66,7 +67,7 @@ Now as an assistant headteacher Paul is clear on the next role he would want to 
 As you progress as a teacher, so will your salary - in fact, the average salary of leadership group teachers is £58,881. However, it’s not the salary that motivates Paul but to ensure that pupils succeed in life:  “I feel fortunate to be on the leadership salary, but I don’t do the job for the money – for me it’s about supporting students as a teacher and leader and making sure they achieve their full potential.”
 
 ##Leaping to head of department
-Jon Simons, head of department
+**Jon Simons, head of department**
 
 Jon hasn't looked back since starting his teaching career - he was head of year 18 months after qualifying as a teacher, and a year later he was promoted to head of department. Find out how the support and guidance you get as a teacher can help you progress.
 Read Jon’s story
@@ -91,7 +92,7 @@ Now four years into his teaching career, Jon hasn’t looked back – he was hea
 Thousands of people successfully retrain as teachers every year, and applying for teacher training may be easier than you think. Tax-free bursaries are available and dedicated advisers are on hand to support your move into teaching. Register with us for tailored advice and assistance in beginning your new career.
 
 ##From NQT to head of biology in two years
-Sarah Fisher, head of biology
+**Sarah Fisher, head of biology**
 
 Sarah never saw herself working in a nine-to-five office job, and has embraced the challenges and career progression teaching has to offer. She made the jump from NQT to head of biology in just two years.  
 Read Sarah’s story
@@ -110,7 +111,8 @@ Making the most of opportunities available to her, Sarah has also taken on extra
 For anyone looking to emulate Sarah’s success, she gives the following advice: “I would recommend hard work, maintaining your love for the job, and a want to bring about positive change to young peoples' lives… Undeniably, teaching is hard work – but the knowledge that you have helped to motivate young people and helped shape their future brings more satisfaction than any other job I can think of.”
 
 ##The rapid career climber
-Olly Carr, assistant headteacher
+**Olly Carr, assistant headteacher**
+
 Oxford graduate Olly briefly considered a career in finance before deciding that wasn’t for him. Instead he chose to use his degree to share his passion for physics and make it accessible for all pupils. He hasn’t looked back since – quickly climbing the career ladder via a number of leadership roles.
 Read Olly’s story
 

@@ -3,7 +3,7 @@ title: "How to apply"
 backlink: "../"
 ---
 
-<section class="related" markdown="1">
+quick{
   [Choose a course](#choose-a-course)
 
   [Write your personal statement](#write-your-personal-statement)
@@ -11,7 +11,7 @@ backlink: "../"
   [Get two references](#get-two-references)
 
   [Apply for teacher training](#apply-for-teacher-training)
-</section>
+}
 
 <h2 id="choose-a-course" class="stand-out">Choose a course</h2>
 Do some research before you decide on a school or university.
@@ -65,4 +65,4 @@ Contact them before you apply and ask them to reply quickly when UCAS ask for th
 <h2 id="apply-for-teacher-training" class="stand-out">Apply for teacher training</h2>
 You can [apply via UCAS](#), or by using a [new GOV.UK service called Apply for teacher training](#). We’ll help you choose the service that’s right for you.
 
-<a href="#" class="action">Apply</a>
+[Apply](# "external")

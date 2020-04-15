@@ -7,30 +7,11 @@ To become a primary or secondary school teacher in England you’ll need to do a
 
 You’ll need QTS to teach in a state school in England. If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
 
-<section class="related" markdown="1">
-  [If you do not have a degree](#if-you-do-not-have-a-degree)
+[If you do not have a degree](./do-not-have-a-degree "internal")
 
-  [If you have A levels in maths or physics](#if-you-have-a-levels-in-maths-or-physics)
-</section>
+[If you have A levels in maths or physics](./a-levels-in-maths-or-physics "internal")
 
-##If you do not have a degree
-
-You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses usually take 3 to 4 years and include:
-
-  - Bachelor of Education degree (BEd)
-  - Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS
-
-<section class="related" markdown="1">
-  [Search UCAS to find a degree with QTS](#).
-
-  [Get advice on how to get started from the Get into teaching service](#).
-</section>
-
-##If you have A levels in maths or physics
-
-If you want to teach maths or physics you could apply to Future Teaching Scholars. You’ll need A levels at grade B or above in maths or physics. You’ll choose to study a maths or physics degree, followed by specialist teacher training. You’ll get a grant of up to £15,000 to support you during your degree.
-
-<h2 class="stand-out">Step-by-step guide to becoming a teacher</h2>
+##Step-by-step guide to becoming a teacher
 
 ###1. Check your qualifications
 
@@ -85,7 +66,7 @@ You’ll find it useful to get some classroom experience. You’ll see teaching 
 
 Your experience can help you decide whether teaching is right for you.
 
-<a href="https://schoolexperience.education.gov.uk" class="action">Get school experience</a>
+[Get school experience](https://schoolexperience.education.gov.uk "external")
 
 ###3. Decide how to train
 
@@ -98,11 +79,11 @@ Both types of training will give you lots of classroom experience and the knowle
 
 ###4. Apply for training
 
-<a href="/child-page-on-apply" class="start">Find out how to apply for training <span class="arrow">></span></a>
+Find out [how to apply for training](#)
 
-Related content
-
-###Training to teach children with special educational needs and/or disabilities (SEND)
+##Training to teach children with special educational needs and/or disabilities (SEND)
 
 All teaching courses with QTS include training on working with pupils who have special educational needs and/or disabilities (SEND).
 You could also choose a teacher training course with a SEND specialism. Your course would develop your skills for working with pupils with SEND. Find courses with an emphasis on SEND by selecting ‘Show only courses with a SEND specialism’. If you teach SEND pupils you could be eligible for an extra yearly payment to your salary of between £2,149 and £4,242.
+
+[Find out how to specialise in SEND](# "internal")

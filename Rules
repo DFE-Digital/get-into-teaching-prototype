@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 # compile SASS as CSS content
-ignore '/**/_*.sass'
+ignore '/assets/**/_*.sass'
 [:default, :sourcemap].each do |rep_name|
   compile '/**/*.{sass,scss}', rep: rep_name do
     syntax = @item.identifier.ext.to_sym
@@ -14,7 +14,7 @@ ignore '/**/_*.sass'
       write path
     when :sourcemap
       filter :sass_sourcemap, options
-      write path + '.map'
+      write '/assets' + path + '.map'
     end
   end
 end
@@ -32,6 +32,12 @@ end
 
 # compile markdown with kramdown
 compile '/**/*.md' do
+  # GIT processors
+  filter :quickLinks
+  filter :externalLink
+  filter :internalLink
+
+  # standard markdown processor
   filter :kramdown
   layout '/default.html.erb'
 

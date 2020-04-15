@@ -5,17 +5,15 @@ backlink: "../"
 
 Teacher training tuition fees cost up to £9,250 depending on how you decide to train. You may be able to get a grant to help with the cost of your training. You’ll also be able to apply for student finance.
 
-<section class="related" markdown="1">
+quick{
   [Find out about teacher training grants](#find-out-about-teacher-training-grants)
-
-  [Get help to apply for a scholarship](#get-help-to-apply-for-a-scholarship)
 
   [Get student finance](#get-student-finance)
 
   [Get financial help if you’re a parent, a carer or you have a disability](#get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability)
 
   [Applying for funding if you live outside England](#applying-for-funding-if-you-live-outside-england)
-</section>
+}
 
 <h2 id="find-out-about-teacher-training-grants" class="stand-out">Find out about teacher training grants</h2>
 You may be able to get a teacher training grant. This is a tax-free amount of money to help you while you train. You don’t need to pay this back.
@@ -48,18 +46,30 @@ If you have an unrelated degree, but you studied the subject you want to teach a
 | Art and design, music | £9,000 | |
 | Primary with maths (if you have maths A level at grade B or equivalent) | £6,000 | |
 
-<a href="#" class="start">Check if you can get a bursary <span class="arrow">&gt;</span></a>
+[Check if you can get a bursary](# "internal")
 
-<h2 id="get-help-to-apply-for-a-scholarship" class="stand-out">Get help to apply for a scholarship</h2>
+##Get help to apply for a scholarship
 You can get help to apply for a scholarship by using our Teacher Training Adviser Service.  You can also contact the awarding body for your subject to find out more.
 
-| Scholarship subject | Awarding body |
-| Computer science | BCS The Chartered Institute for IT |
-| Chemistry | RSC The Royal Society of Chemistry |
-| Geography | The Royal Geographical Society (with IBG) |
-| Languages | The British Council |
-| Maths | Mathematics Teacher Training Scholarships |
-| Physics | Institute of Physics |
+###Scholarship awarding bodies by subject
+
+**Computer science**  
+[BCS The Chartered Institute for IT](#)
+
+**Chemistry**  
+[RSC The Royal Society of Chemistry](#)
+
+**Geography**  
+[The Royal Geographical Society (with IBG)](#)
+
+**Languages**  
+[The British Council](#)
+
+**Maths**  
+[Mathematics Teacher Training Scholarships](#)
+
+**Physics**  
+[Institute of Physics](#)
 
 <h2 id="get-student-finance" class="stand-out">Get student finance</h2>
 If a bursary or scholarship is not available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.
