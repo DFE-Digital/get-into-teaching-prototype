@@ -1,12 +1,11 @@
 #!/usr/bin/env ruby
 
 # compile SASS as CSS content
-ignore '/assets/**/_*.sass'
 [:default, :sourcemap].each do |rep_name|
   compile '/**/*.{sass,scss}', rep: rep_name do
     syntax = @item.identifier.ext.to_sym
     path = @item.identifier.without_ext + '.css'
-    options = { syntax: syntax, style: :compact, css_path: path, sourcemap_path: path + '.map' }
+    options = { syntax: syntax, style: :compressed, css_path: path, sourcemap_path: path + '.map' }
 
     case rep_name
     when :default
@@ -14,7 +13,7 @@ ignore '/assets/**/_*.sass'
       write path
     when :sourcemap
       filter :sass_sourcemap, options
-      write '/assets' + path + '.map'
+      write path + '.map'
     end
   end
 end
