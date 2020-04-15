@@ -1,8 +1,8 @@
 @font-face { font-family: 'akzidenz-grotesk'; src: url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.eot?") format("eot"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.woff") format("woff"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.ttf") format("truetype"), url("../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.svg#Free3of9") format("svg"); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'akzidenz-grotesk'; src: url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.eot?") format("eot"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.woff") format("woff"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.ttf") format("truetype"), url("../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.svg#Free3of9") format("svg"); font-weight: bold; font-style: normal; }
-body { margin: 16px 24px; font-family: "akzidenz-grotesk", sans-serif; font-size: 16px; line-height: 22px; color: #3a3a3a; }
+body { margin: 16px 0; font-family: "akzidenz-grotesk", sans-serif; font-size: 16px; line-height: 22px; color: #3a3a3a; }
 
-header, footer, main { display: block; width: 325px; margin: 0 auto; overflow: hidden; padding-left: 25px; padding-right: 25px; }
+header, footer, main { display: block; width: 270px; margin: 0 auto; overflow: hidden; padding-left: 25px; padding-right: 25px; }
 
 strong, b, h1, h2, h3, h4 { font-weight: bold; }
 
@@ -10,11 +10,11 @@ em, i { font-style: italic; }
 
 a { color: #3986C4; text-decoration: underline; }
 
-.action { margin: 36px 0; padding: 16px 9px; display: block; font-size: 24px; text-align: center; text-decoration: none; color: white; background-color: #3986C4; }
+.external { margin: 36px 0; padding: 16px 9px; display: block; font-size: 24px; line-height: 31px; text-align: center; text-decoration: none; color: white; background-color: #3986C4; }
 
-.start { margin: 24px 0; padding: 16px 9px; display: block; font-size: 20px; text-align: left; text-decoration: none; color: white; background-color: #3986C4; }
+.internal { margin: 24px 0; padding: 16px 9px; display: block; font-size: 20px; line-height: 26px; text-align: left; text-decoration: none; color: white; background-color: #3986C4; }
 
-.start .arrow { float: right; display: block; width: 24px; text-align: center; }
+.internal .arrow { float: right; display: block; width: 24px; text-align: center; }
 
 h1, h2, h3, h4, p, ul, ol { margin: 0 0 16px; padding: 0; }
 
@@ -38,16 +38,16 @@ li { margin: 0 0 0 16px; padding: 0; }
 
 .brand-text { display: none; }
 
-.related { margin: 24px -24px 18px; padding: 34px 100px 10px 24px; color: white; background-color: #3986C4; font-size: 18px; line-height: 24px; }
+.quick-links { margin: 24px -24px 18px; padding: 34px 100px 10px 24px; color: white; background-color: #3986C4; font-size: 18px; line-height: 24px; }
 
-.related p { margin: 0 0 24px; font-weight: bold; }
+.quick-links p { margin: 0 0 24px; font-weight: bold; }
 
-.related a { color: white; }
+.quick-links a { color: white; }
 
 nav, nav ul, nav li, nav a { display: block; margin: 0; padding: 0; overflow: visible; }
 
 header nav { margin-top: 24px; }
 
-nav a { padding: 6px 0; font-size: 20px; text-decoration: none; color: black; }
+header nav a { padding: 6px 0; font-size: 20px; text-decoration: none; color: black; }
 
 /*# sourceMappingURL=/assets/styles/main.css.map */
