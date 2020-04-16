@@ -1,5 +1,5 @@
 ---
-title: "If your degree is not in the subject you want to teach"
+title: "If you need to get the right qualifications"
 backlink: "../../"
 ---
 
@@ -12,6 +12,15 @@ Here is what you need to do if you:
 
 You may also want to find out about other [specialist ways to get into teaching](#specialist-ways-to-get-into-teaching) and how to [teach children with special educational needs and/or disabilities](#training-to-teach-children-with-special-educational-needs-and-or-disabilities-send).
 
+quick{
+  [If you don’t have a degree](#if-you-dont-have-a-degree)
+
+  [If you have an overseas degree](#if-you-have-an-overseas-degree)
+
+  [Specialist ways to get into teaching](#specialist-ways-to-get-into-teaching)
+}
+
+section{
 ##If you don’t have a degree
 
 You’ll need to apply for an initial teacher training (ITT) course that will give you qualified teacher status (QTS). Courses usually take 3 to 4 years and include:
@@ -26,7 +35,9 @@ Search [UCAS](#) to find a degree with QTS.
 Sign up to get support from a teacher training adviser, who can help you with your personal statement, which funding you can get and how to complete your application.
 
 [Sign up for a teacher training adviser](# "external")
+}
 
+section{
 ##If you have an overseas degree
 
 If you studied overseas, you’ll need to find out if your qualifications are recognised in the UK. Contact us on 0800 389 2500 for advice.
@@ -36,7 +47,9 @@ We can also give you a free UK National Recognition Information Centre (UK NARIC
 If you’re a graduate from outside the European Economic Area (EEA), you may need to apply for a visa before starting your teacher training course.
 
 Contact the school or university you want to train with to find out.
+}
 
+section{
 ##Specialist ways to get into teaching
 
 ###School Direct salaried places
@@ -59,4 +72,5 @@ You’ll need (or be about to finish) a doctorate in the subject you want to tea
 
 If you’re a teaching assistant or unqualified teacher with two years’ experience you can be assessed over 12 weeks to get QTS. This way of getting QTS will not give you a PGCE. You’ll only need a PGCE if you want to do a master’s qualification or teach outside the UK.
 
-[Find a school-led teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external").
+[Find a school-led teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
+}

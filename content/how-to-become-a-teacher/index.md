@@ -7,9 +7,9 @@ To become a primary or secondary school teacher in England you will need to have
 
 You will then need to take a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS). You’ll need QTS to teach in a state school in England.
 
-[If you do not have a degree](./need-the-right-qualifications#if-you-dont-have-a-degree "internal")
+[If you do not have a degree](./if-you-need-to-get-the-right-qualifications#if-you-dont-have-a-degree "internal")
 
-[If you have an overseas degree](./need-the-right-qualifications#if-you-have-an-overseas-degree "internal")
+[If you have an overseas degree](./if-you-need-to-get-the-right-qualifications#if-you-have-an-overseas-degree "internal")
 
 If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
 
