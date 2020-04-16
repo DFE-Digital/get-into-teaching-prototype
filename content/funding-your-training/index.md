@@ -15,7 +15,8 @@ quick{
   [Applying for funding if you live outside England](#applying-for-funding-if-you-live-outside-england)
 }
 
-<h2 id="find-out-about-teacher-training-grants" class="stand-out">Find out about teacher training grants</h2>
+section{
+##Find out about teacher training grants
 You may be able to get a teacher training grant. This is a tax-free amount of money to help you while you train. You don’t need to pay this back.
 
 Grants for teaching are called bursaries and scholarships. They are only available in subjects where there is a shortage of teachers. You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible.
@@ -29,7 +30,7 @@ You can apply for a scholarship of up to £28,000. You’d get this instead of a
 ###Check which subjects have bursaries and scholarships
 These figures are for the academic year 2020/2021 If your subject is not listed, there is not a bursary or scholarship available. Primary teacher training bursaries are only available if you specialise in maths.
 
-If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course [link to SKE in How to become a teacher].
+If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a [subject knowledge enhancement course](../how-to-become-a-teacher "link to SKE in How to become a teacher").
 
 | Subject | Bursary | Scholarship |
 | Chemistry | £26,000 | £28,000 |
@@ -49,70 +50,76 @@ If you have an unrelated degree, but you studied the subject you want to teach a
 [Check if you can get a bursary](# "internal")
 
 ##Get help to apply for a scholarship
-You can get help to apply for a scholarship by using our Teacher Training Adviser Service.  You can also contact the awarding body for your subject to find out more.
+You can get help to apply for a scholarship by using our [Teacher Training Adviser Service](https://register.getintoteaching.education.gov.uk/register). You can also contact the awarding body for your subject to find out more.
 
 ###Scholarship awarding bodies by subject
 
 **Computer science**  
-[BCS The Chartered Institute for IT](#)
+[BCS The Chartered Institute for IT](https://www.bcs.org/get-qualified/certification-and-scholarships-for-teachers/bcs-computer-teacher-scholarships/)
 
 **Chemistry**  
-[RSC The Royal Society of Chemistry](#)
+[RSC The Royal Society of Chemistry](https://www.rsc.org/awards-funding/funding/teacher-training-scholarships/#eligibility)
 
 **Geography**  
-[The Royal Geographical Society (with IBG)](#)
+[The Royal Geographical Society (with IBG)](https://www.rgs.org/schools/teacher-training-scholarships/)
 
 **Languages**  
-[The British Council](#)
+[The British Council](https://www.britishcouncil.org/education/ihe/opportunities-for-students/ltts)
 
 **Maths**  
-[Mathematics Teacher Training Scholarships](#)
+[Mathematics Teacher Training Scholarships](http://teachingmathsscholars.org/home)
 
 **Physics**  
-[Institute of Physics](#)
+[Institute of Physics](http://www.iop.org/education/teach/itts/page_52632.html)
+}
 
-<h2 id="get-student-finance" class="stand-out">Get student finance</h2>
+section{
+##Get student finance
 If a bursary or scholarship is not available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.
 
 ###Apply for a tuition fee loan
 You can apply for a tuition fee loan of up to £9,250 to cover the full cost of your course fees. This means you will not need to:
 
-pay course fees upfront
-repay the loan until you’re working and earning money
+  - pay course fees upfront
+  - repay the loan until you’re working and earning money
 
 ###Apply for a maintenance loan
 You can apply for a maintenance loan of up to £11,672 to help with your living costs. You’ll repay the loan when you’re working and earning money.
 
-Use the [student finance calculator](#) on GOV.UK to find out how much you can get.
+Use the [student finance calculator](https://www.gov.uk/student-finance-calculator) on GOV.UK to find out how much you can get.
+}
 
-<h2 id="get-financial-help-if-youre-a-parent-a-carer-or-you-have-a-disability" class="stand-out">Get financial help if you’re a parent, a carer or you have a disability</h2>
+section{
+##Get financial help if you’re a parent, a carer or you have a disability
 You may be able to get financial help if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.
 
 ###Disabled Students’ Allowances (DSA)
-If you have additional needs like a mental health problem, long-term illness or disability you can [apply for a DSA](#). The maximum amount is £20,000. Most students get less.
+If you have additional needs like a mental health problem, long-term illness or disability you can apply for a DSA. The maximum amount is £20,000. Most students get less.
 
 ###Childcare Grant
-You can apply for a [Childcare Grant](#) to pay for 85% of your childcare costs. The maximum you’ll get is:
+You can apply for a [Childcare Grant](https://www.gov.uk/childcare-grant) to pay for 85% of your childcare costs. The maximum you’ll get is:
 
   - £169.31 a week for 1 child
   - £290.27 a week for 2 or more children
 
 ###Parents’ Learning Allowance
-If you have children, you may be able to get [Parents’ Learning Allowance](#) of between £50 and £1,716 a year.
+If you have children, you may be able to get [Parents’ Learning Allowance](https://www.gov.uk/parents-learning-allowance) of between £50 and £1,716 a year.
 
 ###Adult Dependants’ Grant
-If an adult depends on you financially, you can apply for an [Adult Dependants’ Grant](#) of up to £3,007.
+If an adult depends on you financially, you can apply for an Adult Dependants’ Grant of up to £3,007.
 
-Check the [student finance calculator](#) to find out what you can apply for.
+Check the [student finance calculator](https://www.gov.uk/student-finance-calculator) to find out what you can apply for.
+}
 
-<h2 id="applying-for-funding-if-you-live-outside-england" class="stand-out">Applying for funding if you live outside England</h2>
+section{
+##Applying for funding if you live outside England
 
 ###Wales, Scotland or Northern Ireland
 If you live in Wales, Scotland or Northern Ireland you’ll need to contact your country’s student finance body. These finance bodies are:
 
-  - [Student Finance Wales](#)
-  - [Student Awards Agency Scotland](#)
-  - [Student Finance NI](#)
+  - [Student Finance Wales](https://www.studentfinancewales.co.uk/)
+  - [Student Awards Agency Scotland](https://www.saas.gov.uk/)
+  - [Student Finance NI](https://www.studentfinanceni.co.uk/)
 
 ###EU students
 If you’re an EU national starting a teacher training course in the academic year 2020/21, you’ll be eligible for a bursary or scholarship, and a tuition fee loan. You need to have lived in the European Economic Area (EEA) or Switzerland for three years before the start of the course.
@@ -120,6 +127,7 @@ If you’re an EU national starting a teacher training course in the academic ye
 ###Students from outside the EU
 Your tuition fees may be higher than fees for UK or EU/EEA students. Contact the university or training provider you want to train with to find out how much your fees will cost.
 
-Get advice about training to be a teacher if you live outside the UK, EU/EAA by using [Teacher Training Adviser Service](#).
+Get advice about training to be a teacher if you live outside the UK, EU/EAA by using [Teacher Training Adviser Service](https://register.getintoteaching.education.gov.uk/register).
 
-There may be financial support available, but this will depend on your status as a home, EU/EEA or overseas student. Find out more from the [UK Council for International Student Affairs](#).
+There may be financial support available, but this will depend on your status as a home, EU/EEA or overseas student. Find out more from the [UK Council for International Student Affairs](https://www.ukcisa.org.uk/).
+}
