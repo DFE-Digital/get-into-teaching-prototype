@@ -7,7 +7,7 @@
 #
 #    quick{ content }
 #
-# With a "foo" admonition. The content can be spread across multiple lines.
+# With a "quick-links" block. The content can be spread across multiple lines.
 #
 Nanoc::Filter.define(:quickLinks) do |content, _params|
   content.gsub(/^quick\{([^\}]+)\}/m) do |_match|

@@ -32,6 +32,7 @@ end
 # compile markdown with kramdown
 compile '/**/*.md' do
   # GIT processors
+  filter :section
   filter :quickLinks
   filter :externalLink
   filter :internalLink
