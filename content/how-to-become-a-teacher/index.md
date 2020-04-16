@@ -1,19 +1,24 @@
 ---
-title: "How to become a teacher"
+title: "Steps to become a teacher"
 backlink: "../"
 ---
 
-To become a primary or secondary school teacher in England you’ll need to do a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS).
+To become a primary or secondary school teacher in England you will need to have a degree.
 
-You’ll need QTS to teach in a state school in England. If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
+You will then need to take a teaching qualification called initial teacher training (ITT). ITT gives you qualified teacher status (QTS). You’ll need QTS to teach in a state school in England.
 
-[If you do not have a degree](./do-not-have-a-degree "internal")
+[If you do not have a degree](./need-the-right-qualifications#if-you-dont-have-a-degree "internal")
 
-[If you have A levels in maths or physics](./a-levels-in-maths-or-physics "internal")
+[If you have an overseas degree](./need-the-right-qualifications#if-you-have-an-overseas-degree "internal")
 
-##Step-by-step guide to becoming a teacher
+If you want to teach in a fee-paying or private school, the rules may be different. You’ll need to check with the type of school you want to teach at.
 
-###1. Check your qualifications
+section{
+##Your Step-by-step guide
+
+<ol class="step-by-step">
+  <li markdown="1">
+###STEP 1: Check your qualifications
 
 ####If you have a degree
 
@@ -24,40 +29,13 @@ If you want to teach in a primary or secondary school you can apply for postgrad
 
 If you do not have GCSEs in English, maths and science, you’ll need to show that you have an equivalent level of education.
 
-####If your degree is not in the subject you want to teach
+[If your degree is not in the subject you want to teach](./degree-is-not-in-the-subject-you-want-to-teach "internal")
+  </li>
 
-If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE). An SKE may be right for you if:
+  <li markdown="1">
+###STEP 2: Get school experience
 
-  - your degree is not in the subject you want to teach, but is related
-  - you studied the subject at A level, but not at degree level
-  - you have an unrelated degree, but relevant professional experience in the subject
-  - it's been some time since you used your degree knowledge
-
-You can do an SKE course in:
-
-  - maths
-  - physics
-  - languages
-  - chemistry
-  - computer studies
-  - biology
-  - English
-  - geography
-  - design and technology
-  - religious education
-  - primary maths
-
-Courses last between 8 and 28 weeks. SKE courses are funded, so you will not have to pay any tuition fees. You may also be eligible for a bursary of £5,600 for a 28-week course or £2,400 for a shorter course of 12 weeks.
-
-####If you have an overseas degree
-
-If you studied overseas, you’ll need to find out if your qualifications are recognised in the UK. Contact us on 0800 389 2500 for advice. We can also give you a free UK National Recognition Information Centre (UK NARIC) statement to show what your qualifications are equivalent to in the UK.
-
-If you’re a graduate from outside the European Economic Area (EEA), you may need to apply for a visa before starting your teacher training course. Contact the school or university you want to train with to find out.
-
-###2. Get experience in a school
-
-You’ll find it useful to get some classroom experience. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
+You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
 
   - relate to pupils and their parents
   - be creative to inspire and motivate pupils
@@ -66,24 +44,82 @@ You’ll find it useful to get some classroom experience. You’ll see teaching 
 
 Your experience can help you decide whether teaching is right for you.
 
-[Get school experience](https://schoolexperience.education.gov.uk "external")
+Use the [Get school experience](https://schoolexperience.education.gov.uk) service.
 
-###3. Decide how to train
+Do a [teaching internship](#) if you’re a STEM-related degree student.
+
+<div class="explanation" markdown="1">
+**STEM-related degree**
+
+STEM stands for science, technology, engineering and mathematics and refers to any subjects that come under these four areas.
+</div>
+  </li>
+
+  <li markdown="1">
+###STEP 3: Decide how to train
 
 For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
 
-  - [at university](./train-at-university)
-  - [in a school](./train-in-a-school)
+  - at university
+  - in a school
 
 Both types of training will give you lots of classroom experience and the knowledge to teach successfully. The type of course you choose will depend on whether you want to study at a university or be based in a school.
 
-###4. Apply for training
+####Train at university
 
-Find out [how to apply for training](#)
+You’ll do a postgraduate certificate in education (PGCE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option. During your course you will:
+
+  - study on campus
+  - spend 24 weeks on school placements at 2 schools
+
+Training at university may be the right choice for you if it’s important to you that you will:
+
+  - spend time with other trainee teachers
+  - be able to move from a school placement if it doesn’t suit you
+
+[Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external").
+
+####Train in a school
+
+Training to teach in a school will usually take 1 year. You’ll spend your time:
+
+learning from experienced teachers by working in the school team
+studying the theory of teaching at college or university
+
+Training to teach in a school is often called school-led training.
+
+School-led training may be the right choice for you if you want to:
+
+  - learn how to become a teacher while you work at a school
+  - get a job in the network of schools where you’ve trained
+
+[Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external").
+
+There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-to-teach#specialist-ways-to-get-into-teaching) to get into teaching which you can apply for too. These include:
+
+  - School Direct salaried places
+  - Postgraduate teaching apprenticeship
+  - Teach First
+  - Researchers in schools
+  - Assessment only (AO)
+  </li>
+
+  <li markdown="1">
+###STEP 4: Application process
+Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../../how-to-apply) using the following steps.
+
+  - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses).
+  - Write a personal statement.
+  - Get two references.
+  - Apply for teacher training.
+  </li>
+</ol>
+}
 
 ##Training to teach children with special educational needs and/or disabilities (SEND)
 
 All teaching courses with QTS include training on working with pupils who have special educational needs and/or disabilities (SEND).
-You could also choose a teacher training course with a SEND specialism. Your course would develop your skills for working with pupils with SEND. Find courses with an emphasis on SEND by selecting ‘Show only courses with a SEND specialism’. If you teach SEND pupils you could be eligible for an extra yearly payment to your salary of between £2,149 and £4,242.
 
-[Find out how to specialise in SEND](# "internal")
+You could also specialise in supporting children with SEND.
+
+[Find out how to specialise in SEND](./choose-a-course-with-a-send-specialism "internal")

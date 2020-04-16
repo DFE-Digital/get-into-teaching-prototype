@@ -41,6 +41,11 @@ header, footer, main {
   padding-right: 25px;
 }
 
+main section {
+  display: block;
+  margin-top: 50px;
+}
+
 strong, b, h1, h2, h3, h4 {
   font-weight: bold;
 }
@@ -56,10 +61,10 @@ a {
 
 .external {
   margin: 36px 0;
-  padding: 16px 9px;
+  padding: 16px 25px;
   display: block;
 
-  font-size: 24px;
+  font-size: 25px;
   line-height: 31px;
   text-align: center;
   text-decoration: none;
@@ -71,8 +76,8 @@ a {
 .internal {
   position: relative;
   display: block;
-  margin: 24px 0;
-  padding: 16px 28px 16px 16px;
+  margin: 25px -25px;
+  padding: 16px 50px 16px 25px;
 
   font-size: 20px;
   line-height: 26px;
@@ -85,11 +90,14 @@ a {
 
 .internal .arrow {
     position: absolute;
-    display: block;
-    width: 24px;
-    top: 36%;
-    right: 4px;
+    display:block;
+    width: 25px;
+    height: 24px;
+    top: 50%;
+    right: 25px;
+    margin-top: -12px;
 
+    line-height: 24px;
     text-align: center;
 }
 
@@ -108,9 +116,9 @@ h1 {
 }
 
 h2 {
-  margin: 9px 0 24px;
+  margin: 9px 0 25px;
 
-  font-size: 24px;
+  font-size: 25px;
   line-height: 31px;
 }
 
@@ -125,7 +133,7 @@ h4 {
   margin: 9px 0 18px;
 
   font-size: 18px;
-  line-height: 24px;
+  line-height: 25px;
 }
 
 h1,
@@ -133,7 +141,7 @@ main section h2 {
   margin-top: 19px;
   margin-left: -30px;
   margin-right: -30px;
-  padding: 16px 100px 12px 30px;
+  padding: 16px 30px 12px;
 
   color: white;
   background-color: #7E58A0;
@@ -164,18 +172,18 @@ li {
 }
 
 .quick-links {
-  margin: 24px -24px 18px;
-  padding: 34px 100px 10px 24px;
+  margin: 25px -25px 18px;
+  padding: 34px 100px 10px 25px;
 
   color: white;
   background-color: #3986C4;
 
   font-size: 18px;
-  line-height: 24px;
+  line-height: 25px;
 }
 
 .quick-links p {
-  margin: 0 0 24px;
+  margin: 0 0 25px;
 
   font-weight: bold;
 }
@@ -221,7 +229,7 @@ nav, nav ul, nav li, nav a {
 }
 
 header nav {
-  margin-top: 24px;
+  margin-top: 25px;
   position: absolute;
 
   background: white;
