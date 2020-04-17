@@ -18,7 +18,7 @@ section{
 
 <ol class="step-by-step">
   <li markdown="1">
-###STEP 1: Check your qualifications
+###<span class="step"><span class="step-label">STEP</span> <span class="step-number">1</span></span> Check your qualifications
 
 ####If you have a degree
 
@@ -33,7 +33,7 @@ If you do not have GCSEs in English, maths and science, you’ll need to show th
   </li>
 
   <li markdown="1">
-###STEP 2: Get school experience
+###<span class="step"><span class="step-label">STEP</span> <span class="step-number">2</span></span> Get school experience
 
 You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
 
@@ -56,7 +56,7 @@ STEM stands for science, technology, engineering and mathematics and refers to a
   </li>
 
   <li markdown="1">
-###STEP 3: Decide how to train
+###<span class="step"><span class="step-label">STEP</span> <span class="step-number">3</span></span> Decide how to train
 
 For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
 
@@ -77,7 +77,7 @@ Training at university may be the right choice for you if it’s important to yo
   - spend time with other trainee teachers
   - be able to move from a school placement if it doesn’t suit you
 
-[Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external").
+[Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
 
 ####Train in a school
 
@@ -93,7 +93,7 @@ School-led training may be the right choice for you if you want to:
   - learn how to become a teacher while you work at a school
   - get a job in the network of schools where you’ve trained
 
-[Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external").
+[Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
 
 There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-to-teach#specialist-ways-to-get-into-teaching) to get into teaching which you can apply for too. These include:
 
@@ -105,7 +105,7 @@ There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-
   </li>
 
   <li markdown="1">
-###STEP 4: Application process
+###<span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Application process
 Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../../how-to-apply) using the following steps.
 
   - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses).

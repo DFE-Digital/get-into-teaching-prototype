@@ -3,7 +3,7 @@
 @charset 'UTF-8';
 
 @font-face {
-    font-family: 'akzidenz-grotesk';
+    font-family: 'Akzidenz Grotesk';
     src:url('../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.eot?') format('eot'),
         url('../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.woff') format('woff'),
         url('../fonts/akzidnezgrotesk-roman/AkzidenzGrotesk-Roman.ttf') format('truetype'),
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-    font-family: 'akzidenz-grotesk';
+    font-family: 'Akzidenz Grotesk';
     src:url('../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.eot?') format('eot'),
         url('../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.woff') format('woff'),
         url('../fonts/akzidnezgrotesk-bold/AkzidenzGrotesk-Bold.ttf') format('truetype'),
@@ -23,11 +23,14 @@
 }
 
 body {
-  margin: 16px 0;
+  margin: 0;
 
-  font-family: "akzidenz-grotesk", sans-serif;
+  font-family: 'Akzidenz Grotesk', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
   line-height: 22px;
+  vertical-align: baseline;
 
   color: #3a3a3a;
 }
@@ -39,6 +42,16 @@ header, footer, main {
   overflow: hidden;
   padding-left: 25px;
   padding-right: 25px;
+}
+
+header {
+  margin-top: 16px;
+}
+
+footer {
+  height: 300px;
+  color: white;
+  background-color: black;
 }
 
 main section {
@@ -57,6 +70,11 @@ em, i {
 a {
   color: #3986C4;
   text-decoration: underline;
+}
+
+li {
+  list-style-type: disc;
+  list-style-position: outside
 }
 
 .external {
@@ -260,4 +278,140 @@ header nav a {
   text-decoration: none;
 
   color: black;
+}
+
+.explanation {
+    padding: 9px 16px 0;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    clear: both;
+    border-left: 10px solid #3986C4;
+}
+
+.step-by-step, .step-by-step > li {
+  display: block;
+  overflow: hidden;
+
+  margin: 0;
+  padding: 0;
+}
+
+.step-by-step {
+  margin-left: -25px;
+  margin-right: -25px;
+}
+
+.step-by-step > li {
+  padding: 0 25px;
+}
+
+.step-by-step h3 {
+  margin: 25px -25px 16px;
+  padding: 25px 25px 9px;
+  display: block;
+  position: relative;
+
+  font-size: 18px;
+  line-height: 24px;
+  text-decoration: none;
+  text-align: center;
+
+  color: white;
+  background-color: #3986C4;
+}
+
+.step-by-step .step {
+  position: absolute;
+  width: 46px;
+  line-height: 46px;
+  border-radius: 46px;
+  border: 2px solid white;
+  top: -25px;
+  left: 50%;
+  margin-left: -27px;
+  background: #D54692;
+  color: white;
+  text-align: center;
+  font-size: 28px;
+}
+
+.step-by-step .step .step-label {
+  display: none;
+}
+
+.copyright {
+  display: block;
+  width: 50%;
+  margin-top: 68px;
+  text-transform: none;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: bold;
+  direction: ltr;
+  color: white;
+}
+
+.copyright a {
+  text-decoration: none;
+  color: white;
+}
+
+.department {
+  float: right;
+  display: block;
+  width: 50%;
+  text-transform: none;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+  direction: ltr;
+  color: white;
+}
+
+.department-logo {
+  display: block;
+  padding-top: 25px;
+  padding-left: 7px;
+
+  background: url(../images/gov-uk-crest-white.png) no-repeat 6px 0;
+  background-size: auto 26px;
+
+  border-left: 2px solid white;
+}
+
+.department-name {
+  position: relative;
+  top: 3px;
+  font-family: "HelveticaNeue", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
+}
+
+.social-media-links {
+  display: block;
+  margin: 70px 0 40px;
+  padding: 0;
+
+  text-align: center;
+  list-style-type: none;
+}
+
+.social-media-links li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.social-media-links .link {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin: 0 3px;
+  padding: 0;
+
+  border: 2px solid white;
+}
+
+.social-media-links .label {
+  display: none;
 }
