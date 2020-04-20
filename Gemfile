@@ -15,3 +15,5 @@ gem "kramdown", "~> 2.1"
 gem "builder", "~> 3.2"
 
 gem "sass", "~> 3.7"
+
+gem "nanoc-live", "~> 1.0.0b6"
