@@ -410,8 +410,29 @@ header nav a {
   padding: 0;
 
   border: 2px solid white;
+  background: black url('../images/footer-icons.png') -21px -10px no-repeat;
 }
 
 .social-media-links .label {
   display: none;
+}
+
+.social-media-links .facebook-link {
+  background-position: -21px -10px;
+}
+
+.social-media-links .instagram-link {
+  background-position: -72px -10px;
+}
+
+.social-media-links .linkedin-link {
+  background-position: -122px -10px;
+}
+
+.social-media-links .twitter-link {
+  background-position: -171px -10px;
+}
+
+.social-media-links .youtube-link {
+  background-position: -222px -10px;
 }
