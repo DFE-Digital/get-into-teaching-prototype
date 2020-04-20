@@ -35,7 +35,7 @@ body {
   color: #3a3a3a;
 }
 
-header, footer, main {
+header, footer, main, form {
   display: block;
   width: 270px;
   margin: 0 auto;
@@ -57,6 +57,60 @@ footer {
 main section {
   display: block;
   margin-top: 50px;
+}
+
+form {
+  margin: -8px -25px -32px -25px;
+  padding: 32px 25px;
+
+  color: white;
+  font-size: 18px;
+  line-height: 20px;
+  background-color: #3986C4;
+}
+
+form label {
+  font-weight: bold;
+}
+
+form input {
+  width: 94%;
+  border: solid #D6D6D6 2px;
+  background: white;
+  line-height: 28px;
+  font-size: 18px;
+  padding-left: 6px;
+  padding-right: 6px;
+  outline: none;
+}
+
+.form-bottom, .form-top {
+  margin-top: 19px;
+  margin-left: -30px;
+  margin-right: -30px;
+
+  background-color: #3986C4;
+  height: 32px;
+
+  -ms-transform: rotate(-2.6deg); /* IE 9 */
+  transform: rotate(-2.6deg); /* Standard syntax */
+}
+
+.form-bottom {
+  margin-bottom: 32px;
+}
+
+form button {
+  width: 100%;
+  border: 0;
+  color: #3986C4;
+  background-color: white;
+  line-height: 32px;
+  font-size: 18px;
+  font-weight: bold;
+  padding-left: 16px;
+  padding-right: 16px;
+  outline: none;
 }
 
 strong, b, h1, h2, h3, h4 {
@@ -107,16 +161,16 @@ li {
 }
 
 .internal .arrow {
-    position: absolute;
-    display:block;
-    width: 25px;
-    height: 24px;
-    top: 50%;
-    right: 25px;
-    margin-top: -12px;
+  position: absolute;
+  display:block;
+  width: 25px;
+  height: 24px;
+  top: 50%;
+  right: 25px;
+  margin-top: -12px;
 
-    line-height: 24px;
-    text-align: center;
+  line-height: 24px;
+  text-align: center;
 }
 
 h1, h2, h3, h4, p, ul, ol {
@@ -281,11 +335,11 @@ header nav a {
 }
 
 .explanation {
-    padding: 9px 16px 0;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    clear: both;
-    border-left: 10px solid #3986C4;
+  padding: 9px 16px 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  clear: both;
+  border-left: 10px solid #3986C4;
 }
 
 .step-by-step, .step-by-step > li {
@@ -348,7 +402,6 @@ header nav a {
   font-size: 13px;
   line-height: 20px;
   font-weight: bold;
-  direction: ltr;
   color: white;
 }
 
@@ -366,7 +419,6 @@ header nav a {
   font-size: 18px;
   line-height: 20px;
   font-weight: 400;
-  direction: ltr;
   color: white;
 }
 
