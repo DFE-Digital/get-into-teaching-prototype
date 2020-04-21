@@ -86,14 +86,14 @@ form input {
 
 .form-bottom, .form-top {
   margin-top: 19px;
-  margin-left: -30px;
-  margin-right: -30px;
+  margin-left: -40px;
+  margin-right: -40px;
 
   background-color: #3986C4;
   height: 32px;
 
-  -ms-transform: rotate(-2.6deg); /* IE 9 */
-  transform: rotate(-2.6deg); /* Standard syntax */
+  -ms-transform: rotate(-5.5deg); /* IE 9 */
+  transform: rotate(-5.5deg); /* Standard syntax */
 }
 
 .form-bottom {
@@ -211,15 +211,15 @@ h4 {
 h1,
 main section h2 {
   margin-top: 19px;
-  margin-left: -30px;
-  margin-right: -30px;
-  padding: 16px 30px 12px;
+  margin-left: -40px;
+  margin-right: -40px;
+  padding: 16px 40px 12px;
 
   color: white;
   background-color: #7E58A0;
 
-  -ms-transform: rotate(-2.6deg); /* IE 9 */
-  transform: rotate(-2.6deg); /* Standard syntax */
+  -ms-transform: rotate(-5.5deg); /* IE 9 */
+  transform: rotate(-5.5deg); /* Standard syntax */
 }
 
 h1 {
@@ -489,6 +489,42 @@ header nav a {
   background-position: -222px -10px;
 }
 
+
+
+.panel {
+  font-weight: bold;
+
+  margin: 0 -25px 25px;
+}
+
+.panel h1 {
+  padding: 16px 80px 12px;
+}
+
+.panel p {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 .panel img {
-  width: 270px;
+  width: 320px;
+  margin-left: -30px;
+  margin-right: -30px;
+}
+
+.panel .internal {
+  color: black;
+  background: none;
+  font-size: 16px;
+}
+
+.panel .external {
+  background: #7E58A0;
+  font-size: 20px;
+  margin-left: -30px;
+  margin-right: -30px;
+}
+
+.panel-find-an-event {
+  margin-bottom: -20px;
 }

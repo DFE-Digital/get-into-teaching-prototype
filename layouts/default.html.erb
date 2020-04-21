@@ -39,11 +39,13 @@
     </header>
 
     <main role="main" class="container">
+      <% if !@item[:no_title] %>
       <div class="header-image">
         <img src="<%= relative_path_to(@item[:image] || '/assets/images/main-header.jpg') %>" class="header-image" alt="" />
       </div>
 
       <h1><%= @item[:title] %></h1>
+      <% end %>
 
       <%= yield %>
     </main>
