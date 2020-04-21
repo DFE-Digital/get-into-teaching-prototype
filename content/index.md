@@ -22,7 +22,7 @@ How Theo swapped his job in an office to become an English teacher.
 <div class="panel panel-became-teacher" markdown="1">
 #Discover the steps to become a teacher
 
-[Use our step by step guide to help you with what you need to become a teacher](./how-to-become-a-teacher "internal")
+[Use our step by step guide to help you with what you need to become a teacher](./steps-to-become-a-teacher "internal")
 </div>
 <div class="panel-bottom"></div>
 

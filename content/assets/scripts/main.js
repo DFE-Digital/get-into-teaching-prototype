@@ -7,6 +7,7 @@ function addClass ( el, className ) {
 }
 
 var hiddenClass = 'hidden';
+var closedClass = 'closed';
 var inactiveClass = 'inactive';
 var mainNav = document.getElementById( 'mainNav' );
 
@@ -31,4 +32,24 @@ function toggleMainNav () {
   hide( mainNav );
 }
 
-document.getElementById( 'mainNavToggle' ).addEventListener( 'click', toggleMainNav );
+document.getElementById( 'mainNavToggle' ).addEventListener( 'click', toggleMainNav, false );
+
+var toggles = document.getElementsByClassName('step-by-step-toggle');
+
+for (i = 0; i < toggles.length; i++) {
+    toggles[i].addEventListener('click', toggleStepPanel(toggles[i]), false);
+}
+
+function toggleStepPanel(el) {
+  addClass( el.parentNode, closedClass );
+
+  return function () {
+    if ( this.parentNode.className.indexOf( closedClass ) !== -1 ) {
+      removeClass( this.parentNode, closedClass );
+
+      return;
+    }
+
+    addClass( this.parentNode, closedClass );
+  }
+}

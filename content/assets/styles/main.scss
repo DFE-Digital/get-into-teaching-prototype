@@ -225,7 +225,7 @@ main section h2 {
 }
 
 h1 {
-  margin-top: -10px;
+  margin-top: -16px;
   padding-top: 35px;
   padding-bottom: 35px;
 }
@@ -359,6 +359,16 @@ header nav a {
 
 .step-by-step > li {
   padding: 0 25px;
+
+  -webkit-transition: height 1s ease-in-out;
+  -moz-transition: height 1s ease-in-out;
+  -ms-transition: height 1s ease-in-out;
+  -o-transition: height 1s ease-in-out;
+  transition: height 1s ease-in-out;
+}
+
+.step-by-step > li.closed {
+  height: 100px;
 }
 
 .step-by-step h3 {
