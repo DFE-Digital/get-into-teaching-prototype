@@ -23,14 +23,14 @@ Bursaries and scholarships are tax-free amounts of money to help you while you t
 
 They are only available in subjects where there is a shortage of teachers. You’ll need a first, 2:1, 2:2 degree or a PhD or Master's to be eligible.
 
-[Find out more about bursaries and scholarships](../teacher "link to SKE in How to become a teacher")
+[Find out more about bursaries and scholarships](../steps-to-become-a-teacher "internal")
 }
 
 section{
 ##Get student finance
 If a bursary or scholarship is not available for your course, you can borrow money to help pay for your fees and living costs. You can apply for a tuition fee and/or a maintenance loan even if you already have a student loan.
 
-[Find out more about student finance.](../teacher "link to SKE in How to become a teacher")
+[Find out more about student finance.](../steps-to-become-a-teacher "internal")
 
 Use the [student finance calculator on GOV.UK](https://www.gov.uk/student-finance-calculator) to find out how much you can get.
 }
@@ -39,7 +39,7 @@ section{
 ##Get financial help if you’re a parent, a carer or you have a disability
 You may be able to get financial help if you have a disability, or if you have children or dependent adults. If you get this type of funding, you do not need to pay it back.
 
-[Find out more about financial help for parents, carers and people with disabilities.](../teacher "link to SKE in How to become a teacher")
+[Find out more about financial help for parents, carers and people with disabilities.](../steps-to-become-a-teacher "internal")
 }
 
 section{
@@ -47,5 +47,5 @@ section{
 
 Whether you’re a home student (living in Wales, Scotland or Northern Ireland), an EU student or a student from outside the EU, you may still be eligible for funding to train to teach.
 
-[Find out how to apply for funding if you live outside England.](../teacher "link to SKE in How to become a teacher")
+[Find out how to apply for funding if you live outside England.](../steps-to-become-a-teacher "internal")
 }
