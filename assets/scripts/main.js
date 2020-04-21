@@ -42,7 +42,6 @@ for (i = 0; i < toggles.length; i++) {
 
 function toggleStepPanel(el) {
   addClass( el.parentNode, closedClass );
-  el.parentNode.style.height = el.parentNode.height;
 
   return function () {
     if ( this.parentNode.className.indexOf( closedClass ) !== -1 ) {
