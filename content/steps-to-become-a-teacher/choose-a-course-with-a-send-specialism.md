@@ -16,7 +16,7 @@ You don’t have to take a SEND specialist course. If you want to be a SEND teac
 
 ##Teaching children with sensory impairments
 
-If you want to teach pupils with hearing, vision or multi-sensory impairments, you’ll need a specific qualification. Find out about [mandatory qualifications](#) for specialist teachers.
+If you want to teach pupils with hearing, vision or multi-sensory impairments, you’ll need a specific qualification. Find out about [mandatory qualifications](# "external-inline") for specialist teachers.
 
 ##Be a Special Educational Needs Coordinator (SENCo)
 

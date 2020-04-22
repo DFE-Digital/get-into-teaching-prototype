@@ -21,7 +21,7 @@ Lead practitioners share their skills with other teachers. In this role you will
 
 Headteachers lead, motivate and manage staff. In this role you will earn between £46,357 to £114,060. This could be up to £121,749 if you work in inner London.
 
-[Find the full list of teacher salary scales in England from NASUWT The Teachers Union](# "external-inline").
+Find the full list of teacher salary scales in England from [NASUWT The Teachers Union](# "external-inline").
 
 ##Teacher benefits
 

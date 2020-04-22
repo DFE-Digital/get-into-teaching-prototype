@@ -50,9 +50,9 @@ compile '/**/*.md' do
 end
 
 # compile sitemap.erb and put the compiled content under sitemap.xml in root
-compile '/sitemap/sitemap.erb' do
+compile '/sitemap.erb' do
   filter :erb
-  write item.identifier.without_ext.to_s.sub('/sitemap', '') + '.xml'
+  write item.identifier.without_ext.to_s + '.xml'
 end
 
 # compile everything else as raw content copied to the output folder

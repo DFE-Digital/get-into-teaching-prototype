@@ -67,7 +67,7 @@ Contact them before you apply and ask them to reply quickly when UCAS ask for th
 section{
 ##Apply for teacher training
 
-Sign up to [get support from a teacher training adviser](#), who can help you with your personal statement, which funding you can get and how to complete your application.
+Sign up to [get support from a teacher training adviser](# "external-inline"), who can help you with your personal statement, which funding you can get and how to complete your application.
 
-You can [apply via UCAS](#), or by using a [new GOV.UK service called Apply for teacher training](#). We’ll help you choose the service that’s right for you.
+You can [apply via UCAS](https://www.ucas.com/postgraduate/teacher-training/ucas-teacher-training-apply-and-track "external-inline"), or by using a [new GOV.UK service called Apply for teacher training](https://www.apply-for-teacher-training.education.gov.uk "external-inline"). We’ll help you choose the service that’s right for you.
 }

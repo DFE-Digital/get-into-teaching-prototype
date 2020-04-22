@@ -1,3 +1,7 @@
+var hiddenClass = 'hidden';
+var closedClass = 'closed';
+var inactiveClass = 'inactive';
+
 function removeClass ( el, className ) {
   el.classList.remove( className );
 }
@@ -5,11 +9,6 @@ function removeClass ( el, className ) {
 function addClass ( el, className ) {
   el.classList.add( className );
 }
-
-var hiddenClass = 'hidden';
-var closedClass = 'closed';
-var inactiveClass = 'inactive';
-var mainNav = document.getElementById( 'mainNav' );
 
 function show ( el ) {
   removeClass( el, hiddenClass );
@@ -21,39 +20,50 @@ function hide ( el ) {
   addClass( el, inactiveClass );
 }
 
-function toggleMainNav () {
-  if ( mainNav.className.indexOf( hiddenClass ) !== -1 ) {
-    // show
-    show( mainNav );
-    return;
-  }
-
-  // hide
-  hide( mainNav );
+function open ( el, twiddle ) {
+  removeClass( el, closedClass );
+  twiddle.innerText = "-";
 }
 
-document.getElementById( 'mainNavToggle' ).addEventListener( 'click', toggleMainNav, false );
-
-var toggles = document.getElementsByClassName('step-by-step-toggle');
-
-for (i = 0; i < toggles.length; i++) {
-    toggles[i].addEventListener('click', toggleStepPanel(toggles[i]), false);
-}
-
-function toggleStepPanel(el) {
-  addClass( el.parentNode, closedClass );
-  var twiddle = el.childNodes[el.childNodes.length - 1];
+function close ( el, twiddle ) {
+  addClass( el, closedClass );
   twiddle.innerText = "+";
+}
 
-  return function () {
-    if ( this.parentNode.className.indexOf( closedClass ) !== -1 ) {
-      removeClass( this.parentNode, closedClass );
-      twiddle.innerText = "-";
+function toggleMainNav (el) {
+  var nav = el;
 
+  return function toggleMainNavHelper () {
+    if ( nav.className.indexOf( hiddenClass ) !== -1 ) {
+      show( nav );
       return;
     }
 
-    addClass( this.parentNode, closedClass );
-    twiddle.innerText = "+";
+    hide( nav );
   }
+}
+
+function toggleStepPanel (el) {
+  var panel = el.parentNode;
+  var twiddle = el.childNodes[el.childNodes.length - 1];
+
+  addClass( el.parentNode, closedClass );
+  twiddle.innerText = "+";
+
+  return function toggleStepPanelHandler () {
+    if ( panel.className.indexOf( closedClass ) !== -1 ) {
+      open ( panel, twiddle );
+      return;
+    }
+
+    close ( panel, twiddle );
+  }
+}
+
+var mainNav = document.getElementById( 'mainNav' );
+document.getElementById( 'mainNavToggle' ).addEventListener( 'click', toggleMainNav( mainNav ), false );
+
+var toggles = document.getElementsByClassName('step-by-step-toggle');
+for (i = 0; i < toggles.length; i++) {
+    toggles[i].addEventListener('click', toggleStepPanel(toggles[i]), false);
 }
