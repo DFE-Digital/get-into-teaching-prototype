@@ -42,14 +42,18 @@ for (i = 0; i < toggles.length; i++) {
 
 function toggleStepPanel(el) {
   addClass( el.parentNode, closedClass );
+  var twiddle = el.childNodes[el.childNodes.length - 1];
+  twiddle.innerText = "+";
 
   return function () {
     if ( this.parentNode.className.indexOf( closedClass ) !== -1 ) {
       removeClass( this.parentNode, closedClass );
+      twiddle.innerText = "-";
 
       return;
     }
 
     addClass( this.parentNode, closedClass );
+    twiddle.innerText = "+";
   }
 }
