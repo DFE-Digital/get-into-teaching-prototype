@@ -1,5 +1,6 @@
 ---
 title: "Find an event near you"
+image: "/assets/images/events-header.jpg"
 backlink: "../"
 ---
 

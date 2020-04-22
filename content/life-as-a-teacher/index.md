@@ -1,5 +1,6 @@
 ---
 title: "Life as a teacher"
+image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../"
 ---
 

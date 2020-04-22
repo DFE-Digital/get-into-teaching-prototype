@@ -1,5 +1,6 @@
 ---
 title: "Bursaries and scholarships"
+image: "/assets/images/funding-header.jpg"
 backlink: "../../"
 ---
 

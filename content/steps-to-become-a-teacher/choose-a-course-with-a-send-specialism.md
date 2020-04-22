@@ -1,5 +1,6 @@
 ---
 title: "Choose a course with a SEND specialism"
+image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
 ---
 

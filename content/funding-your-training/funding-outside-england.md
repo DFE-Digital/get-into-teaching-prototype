@@ -1,5 +1,6 @@
 ---
 title: "Funding if you live outside England"
+image: "/assets/images/funding-header.jpg"
 backlink: "../../"
 ---
 

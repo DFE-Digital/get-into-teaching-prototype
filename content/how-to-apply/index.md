@@ -1,5 +1,6 @@
 ---
 title: "How to apply"
+image: "/assets/images/how-to-apply-header.jpg"
 backlink: "../"
 ---
 

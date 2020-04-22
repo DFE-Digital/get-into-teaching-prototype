@@ -1,5 +1,6 @@
 ---
 title: "Why I became a teacher"
+image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
 
@@ -10,7 +11,7 @@ section{
 
 <p class="lead">Helen went on a journey to transition from lawyer to teacher - and hasn't looked back since. She is now on the same salary as she was as a senior associate lawyer. In addition, Helen’s progression to a leadership group teacher was also quick.</p>
 
-<a href="#helens-story" class="case-study-link">Read Helen's story ></a>
+<a href="#helens-story" class="case-study-link">Read Helen's story <span class="twiddle"></span></a>
 
 <div id="helens-story" class="case-study-body" markdown="1">
 Helen Winter began her career as a lawyer; however, after re-evaluating her career, she embarked on a journey to transition from lawyer to teacher. With support from her sister, who is a teacher, Helen tested the water by gaining some school experience before making her final decision.
@@ -36,7 +37,7 @@ section{
 
 <p class="lead">Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder.</p>
 
-<a href="#owens-story" class="case-study-link">Read Owen's story ></a>
+<a href="#owens-story" class="case-study-link">Read Owen's story <span class="twiddle"></span></a>
 
 <div id="owens-story" class="case-study-body" markdown="1">
 Just one year after completing his postgraduate teacher training, Owen progressed to head of department – and since then, he has continued to climb the career ladder. Four years later, he is now undertaking consultancy work at various schools, as well as training as a specialist leader of education and leader of teaching standards.
@@ -56,11 +57,13 @@ Why not emulate Owen’s ascent to leadership and apply for teacher training? It
 section{
 ##Climbing the career ladder
 
+![Paul's Story](../../assets/images/case-study-video.png)
+
 ###Paul Evason, assistant headteacher
 
 <p class="lead">As a newly qualified teacher, Paul was keen to move up the teaching career ladder – now he’s reached assistant headteacher he shares his story on why he got into teaching and his tips on career progression.</p>
 
-<a href="#pauls-story" class="case-study-link">Read Paul's story ></a>
+<a href="#pauls-story" class="case-study-link">Read Paul's story <span class="twiddle"></span></a>
 
 <div id="pauls-story" class="case-study-body" markdown="1">
 As a newly qualified teacher, Paul kept climbing the teaching career ladder – now he’s reached assistant headteacher he shares his story on why he got into teaching and his tips on career progression.
@@ -85,7 +88,7 @@ section{
 
 <p class="lead">Jon hasn't looked back since starting his teaching career - he was head of year 18 months after qualifying as a teacher, and a year later he was promoted to head of department. Find out how the support and guidance you get as a teacher can help you progress.</p>
 
-<a href="#jons-story" class="case-study-link">Read Jon's story ></a>
+<a href="#jons-story" class="case-study-link">Read Jon's story <span class="twiddle"></span></a>
 
 <div id="jons-story" class="case-study-body" markdown="1">
 After six years of working in the world of recruitment consultancy, Jon felt it was time for a new career. Determined to embark on a path where he could channel his passion into helping others, Jon started to investigate a career in teaching.
@@ -114,7 +117,7 @@ section{
 
 <p class="lead">Sarah never saw herself working in a nine-to-five office job, and has embraced the challenges and career progression teaching has to offer. She made the jump from NQT to head of biology in just two years.</p>
 
-<a href="#sarahs-story" class="case-study-link">Read Sarah's story ></a>
+<a href="#sarahs-story" class="case-study-link">Read Sarah's story <span class="twiddle"></span></a>
 
 <div id="sarahs-story" class="case-study-body" markdown="1">
 Two years after qualifying as a teacher, Sarah progressed to head of biology, climbing the career ladder and strengthening her department in the process. But Sarah always had an inkling that teaching was the right direction. “From an early age, I knew a teaching career was for me. I could not imagine working a typical nine-to-five desk job. Every day in teaching brings a new challenge and new situations, which is what makes the job so exciting,” Sarah says.
@@ -138,7 +141,7 @@ section{
 
 <p class="lead">Oxford graduate Olly briefly considered a career in finance before deciding that wasn’t for him. Instead he chose to use his degree to share his passion for physics and make it accessible for all pupils. He hasn’t looked back since – quickly climbing the career ladder via a number of leadership roles.</p>
 
-<a href="#ollys-story" class="case-study-link">Read Olly's story ></a>
+<a href="#ollys-story" class="case-study-link">Read Olly's story <span class="twiddle"></span></a>
 
 <div id="ollys-story" class="case-study-body" markdown="1">
 Olly graduated from Oxford in 2008 with a 2:1 in philosophy, politics and economics. During his studies, he completed an internship in corporate finance – and it took him less than week to realise that wasn’t the career for him. Wanting to make a difference for other people, he decided to change tack.
@@ -167,7 +170,7 @@ section{
 
 <p class="lead">From newly qualified teacher (NQT) to head of faculty in just five years, geography teacher Karen says she “couldn’t have made a better decision” than joining the profession. While her classroom time has been reduced, she still thrives on making a positive difference for students.</p>
 
-<a href="#karens-story" class="case-study-link">Read Karen's story ></a>
+<a href="#karens-story" class="case-study-link">Read Karen's story <span class="twiddle"></span></a>
 
 <div id="karens-story" class="case-study-body" markdown="1">
 From newly qualified teacher to head of faculty in just five years of teaching, Karen Falcon has enjoyed rapid career progression. Making the most of the opportunities and prospects that teaching offers, she was head of department for geography at The Toynbee School in Chandler’s Ford within two years of her NQT year.

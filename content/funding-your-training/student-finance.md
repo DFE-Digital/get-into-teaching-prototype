@@ -1,5 +1,6 @@
 ---
 title: "Student finance"
+image: "/assets/images/funding-header.jpg"
 backlink: "../../"
 ---
 

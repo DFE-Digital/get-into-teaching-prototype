@@ -1,5 +1,6 @@
 ---
 title: "Financial help if you’re a parent, a carer or you have a disability"
+image: "/assets/images/funding-header.jpg"
 backlink: "../../"
 ---
 

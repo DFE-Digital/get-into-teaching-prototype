@@ -9,7 +9,7 @@ no_title: true
 </div>
 
 <div class="panel panel-real-stories" markdown="1">
-#Why I became a teacher
+#[Why I became a teacher](./life-as-a-teacher/real-stories#climbing-the-career-ladder)
 
 [![Paul's Story](./assets/images/case-study-video.png)](./life-as-a-teacher/real-stories#climbing-the-career-ladder)
 
@@ -20,7 +20,7 @@ As a newly qualified teacher, Paul was keen to move up the teaching career ladde
 
 <div class="panel-top"></div>
 <div class="panel panel-became-teacher" markdown="1">
-#Discover the steps to become a teacher
+#[Discover the steps to become a teacher](./steps-to-become-a-teacher)
 
 [Use our step by step guide to help you with what you need to become a teacher](./steps-to-become-a-teacher "internal")
 </div>

@@ -22,7 +22,7 @@ function hide ( el ) {
 
 function open ( el, twiddle ) {
   removeClass( el, closedClass );
-  twiddle.innerText = "-";
+  twiddle.innerText = "–";
 }
 
 function close ( el, twiddle ) {
@@ -56,7 +56,7 @@ function toggleMainNav (el) {
 
 function toggleStepPanel (el) {
   var panel = el.parentNode;
-  var twiddle = el.childNodes[el.childNodes.length - 1];
+  var twiddle = el.childNodes[ el.childNodes.length - 1 ];
 
   addClass( panel, closedClass );
   twiddle.innerText = "+";
@@ -76,19 +76,21 @@ function toggleStepPanel (el) {
 
 function toggleCaseStudyPanel (el) {
   var panel = el.parentNode.nextSibling.nextSibling;
+  var twiddle = el.childNodes[ el.childNodes.length - 1 ];
 
   addClass( panel, closedClass );
+  twiddle.innerText = "+";
 
   return function toggleCaseStudyPanelHandler (ev) {
     ev.stopPropagation();
     ev.preventDefault();
 
     if ( panel.className.indexOf( closedClass ) !== -1 ) {
-      expand ( panel );
+      open ( panel, twiddle );
       return;
     }
 
-    contract ( panel );
+    close ( panel, twiddle );
   }
 
 }

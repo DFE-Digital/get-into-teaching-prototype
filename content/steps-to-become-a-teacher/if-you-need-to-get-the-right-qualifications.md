@@ -1,5 +1,6 @@
 ---
 title: "If you need to get the right qualifications"
+image: "/assets/images/steps-to-teacher-header.jpg"
 backlink: "../../"
 ---
 
