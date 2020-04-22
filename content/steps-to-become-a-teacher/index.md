@@ -31,7 +31,7 @@ To study for ITT, you’ll need:
 
 If you do not have GCSEs in English, maths and science, you’ll need to show that you have an equivalent level of education.
 
-[If your degree is not in the subject you want to teach](./degree-is-not-in-the-subject-you-want-to-teach "internal")
+[If your degree is not in the subject you want to teach](./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching "internal")
   </li>
 
   <li markdown="1">
@@ -108,7 +108,7 @@ There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-
 
   <li markdown="1">
 <h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Application process <span class="twiddle"></span></h3>
-Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../../how-to-apply) using the following steps.
+Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../how-to-apply) using the following steps.
 
   - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
   - Write a personal statement.

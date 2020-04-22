@@ -30,7 +30,7 @@ You’ll need to apply for an initial teacher training (ITT) course that will gi
 
 Search [UCAS](https://digital.ucas.com/search "external-inline") to find a degree with QTS.
 
-[Go back to the home page](/)
+[Go back to the home page](../../)
 
 Sign up to get support from a teacher training adviser, who can help you with your personal statement, which funding you can get and how to complete your application.
 
