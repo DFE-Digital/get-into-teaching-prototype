@@ -34,6 +34,7 @@ compile '/**/*.md' do
   # GIT processors
   filter :section
   filter :quickLinks
+  filter :externalInlineLink
   filter :externalLink
   filter :internalLink
 

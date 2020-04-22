@@ -44,9 +44,9 @@ You’ll find it useful to get some classroom experience, although it’s not co
 
 Your experience can help you decide whether teaching is right for you.
 
-Use the [Get school experience](https://schoolexperience.education.gov.uk) service.
+Use the [Get school experience](https://schoolexperience.education.gov.uk "external-inline") service.
 
-Do a [teaching internship](#) if you’re a STEM-related degree student.
+Do a [teaching internship](# "external-inline") if you’re a STEM-related degree student.
 
 <div class="explanation" markdown="1">
 **STEM-related degree**
@@ -108,7 +108,7 @@ There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-
 <h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Application process</h3>
 Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../../how-to-apply) using the following steps.
 
-  - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses).
+  - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
   - Write a personal statement.
   - Get two references.
   - Apply for teacher training.

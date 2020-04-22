@@ -19,7 +19,7 @@ In addition to the day job you can get involved in after-school activities, club
 ##Career progression
 Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.
 
-The Department for Education (DfE) has made it easier to find a teaching role in England, by using the [Teaching Vacancies service](https://teaching-vacancies.service.gov.uk/).
+The Department for Education (DfE) has made it easier to find a teaching role in England, by using the [Teaching Vacancies service](https://teaching-vacancies.service.gov.uk/ "external-inline").
 
 ###Leadership
 Leadership roles in a school can offer a number of different opportunities, from taking charge of a year group or a particular key stage; to becoming a deputy or headteacher.

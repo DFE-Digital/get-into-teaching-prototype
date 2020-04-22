@@ -15,16 +15,16 @@ quick{
 
 section{
 ##Choose a course
-You can use the [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses) service to search for courses in your area as well as further afield.
+You can use the [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline") service to search for courses in your area as well as further afield.
 
 When you’re researching courses, you could also:
 
   - ask teachers
   - look at training provider websites
   - go to a teacher training event
-  - read school [Ofsted inspection reports](http://reports.ofsted.gov.uk/)
-  - compare university courses at [discoveruni.gov.uk](https://discoveruni.gov.uk/)
-  - find out how many people finished their course and got a teaching job in the [initial teacher training census data](https://www.gov.uk/government/collections/statistics-teacher-training#census-data)
+  - read school [Ofsted inspection reports](http://reports.ofsted.gov.uk/ "external-inline")
+  - compare university courses at [discoveruni.gov.uk](https://discoveruni.gov.uk/ "external-inline")
+  - find out how many people finished their course and got a teaching job in the [initial teacher training census data](https://www.gov.uk/government/collections/statistics-teacher-training#census-data "external-inline")
 
 ###Check the distance
 Find out how far away the course is from where you live. Think about how you’ll get to the schools you’ll need to visit on placement and whether it’s possible.

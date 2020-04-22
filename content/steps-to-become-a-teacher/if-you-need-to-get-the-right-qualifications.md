@@ -28,7 +28,7 @@ You’ll need to apply for an initial teacher training (ITT) course that will gi
   - Bachelor of Education degree (BEd)
   - Bachelor of Arts (BA) and Bachelor of Science (BSc) with QTS
 
-Search [UCAS](#) to find a degree with QTS.
+Search [UCAS](https://digital.ucas.com/search "external-inline") to find a degree with QTS.
 
 [Go back to the home page](/)
 

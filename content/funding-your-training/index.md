@@ -32,7 +32,7 @@ If a bursary or scholarship is not available for your course, you can borrow mon
 
 [Find out more about student finance.](../steps-to-become-a-teacher "internal")
 
-Use the [student finance calculator on GOV.UK](https://www.gov.uk/student-finance-calculator) to find out how much you can get.
+Use the [student finance calculator on GOV.UK](https://www.gov.uk/student-finance-calculator "external-inline") to find out how much you can get.
 }
 
 section{

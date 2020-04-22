@@ -5,7 +5,7 @@
 #
 # Replaces this:
 #
-#    [text](url, "external")
+#    [text](url, "external-inline")
 #
 # With a "foo" admonition. The content can be spread across multiple lines.
 #

@@ -5,7 +5,7 @@ backlink: "../../"
 
 You could choose teacher training with a SEND specialism. These courses focus on developing your skills for working with pupils with SEND.
 
-Find courses with a SEND specialism by selecting ‘Show only courses with a SEND specialism’ on [Find postgraduate teacher training](#).
+Find courses with a SEND specialism by selecting ‘Show only courses with a SEND specialism’ on [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
 
 ##Get experience
 
@@ -22,8 +22,8 @@ If you want to teach pupils with hearing, vision or multi-sensory impairments, y
 
 As a SENCo you’ll be responsible for assessing, planning and monitoring the progress of children with SEND. To apply for a job as a SENCo, you'll need to:
 
-be a qualified teacher
-complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
+  - be a qualified teacher
+  - complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
 
 [Find out about NASENCO](# "external").
 
