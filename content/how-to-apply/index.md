@@ -25,12 +25,6 @@ When you’re researching courses, you could also:
   - read school [Ofsted inspection reports](http://reports.ofsted.gov.uk/ "external-inline")
   - compare university courses at [discoveruni.gov.uk](https://discoveruni.gov.uk/ "external-inline")
   - find out how many people finished their course and got a teaching job in the [initial teacher training census data](https://www.gov.uk/government/collections/statistics-teacher-training#census-data "external-inline")
-
-###Check the distance
-Find out how far away the course is from where you live. Think about how you’ll get to the schools you’ll need to visit on placement and whether it’s possible.
-
-###Find a course
-Use GOV.UK to [find a postgraduate teacher training course](#) that is right for you.
 }
 
 section{
