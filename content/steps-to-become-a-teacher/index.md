@@ -22,7 +22,9 @@ section{
 
 ####If you have a degree
 
-If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS). You’ll need:
+If you want to teach in a primary or secondary school you can apply for postgraduate initial teacher training (ITT) to give you qualified teacher status (QTS).  This usually takes a year, unless you study part-time.  All ITT courses include a minimum of 24 weeks in school - usually two schools or more.
+
+To study for ITT, you’ll need:
 
   - grade 4 (C) or above in English and maths GCSE
   - grade 4 (C) or above in GCSE science if you want to teach primary
