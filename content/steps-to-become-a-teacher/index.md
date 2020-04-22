@@ -18,7 +18,7 @@ section{
 
 <ol class="step-by-step" id="step-by-step">
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">1</span></span> Check your qualifications</h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">1</span></span> Check your qualifications <span class="twiddle"></span></h3>
 
 ####If you have a degree
 
@@ -35,7 +35,7 @@ If you do not have GCSEs in English, maths and science, you’ll need to show th
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">2</span></span> Get school experience</h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">2</span></span> Get school experience <span class="twiddle"></span></h3>
 
 You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
 
@@ -58,7 +58,7 @@ STEM stands for science, technology, engineering and mathematics and refers to a
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">3</span></span> Decide how to train</h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">3</span></span> Decide how to train <span class="twiddle"></span></h3>
 
 For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
 
@@ -107,7 +107,7 @@ There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Application process</h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Application process <span class="twiddle"></span></h3>
 Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../../how-to-apply) using the following steps.
 
   - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
