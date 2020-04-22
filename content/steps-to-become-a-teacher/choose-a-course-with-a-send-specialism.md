@@ -25,7 +25,7 @@ As a SENCo you’ll be responsible for assessing, planning and monitoring the pr
   - be a qualified teacher
   - complete the National Award in Special Educational Needs Coordination (NASENCO) when you take up the SENCO post
 
-[Find out about NASENCO](# "external").
+[Find out about NASENCO](https://nasen.org.uk/training-and-cpd.html "external").
 
 Special educational needs (SEN) allowance
 

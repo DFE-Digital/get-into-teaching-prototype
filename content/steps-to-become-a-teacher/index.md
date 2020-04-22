@@ -48,7 +48,7 @@ Your experience can help you decide whether teaching is right for you.
 
 Use the [Get school experience](https://schoolexperience.education.gov.uk "external-inline") service.
 
-Do a [teaching internship](# "external-inline") if you’re a STEM-related degree student.
+Do a [teaching internship](https://www.gov.uk/guidance/paid-internships-for-teaching "external-inline") if you’re a STEM-related degree student.
 
 <div class="explanation" markdown="1">
 **STEM-related degree**

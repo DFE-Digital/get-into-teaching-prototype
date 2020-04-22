@@ -21,7 +21,7 @@ Lead practitioners share their skills with other teachers. In this role you will
 
 Headteachers lead, motivate and manage staff. In this role you will earn between £46,357 to £114,060. This could be up to £121,749 if you work in inner London.
 
-Find the full list of teacher salary scales in England from [NASUWT The Teachers Union](# "external-inline").
+Find the full list of teacher salary scales in England from [NASUWT The Teachers Union](https://www.nasuwt.org.uk/ "external-inline").
 
 ##Teacher benefits
 
@@ -47,7 +47,7 @@ When you start teaching, you can claim back the student loan payments you made t
   - physics
   - computer science
 
-[Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK](# "external-inline").
+[Find out more about eligibility criteria, payment rates, participating local authorities and how to apply at GOV.UK](https://www.gov.uk/guidance/teachers-student-loan-reimbursement-guidance-for-teachers-and-schools "external-inline").
 
 ###Teachers’ Pension Scheme
 
@@ -57,4 +57,4 @@ The Teachers’ Pension Scheme gives you a regular source of income when you ret
   - registered with HM Revenue and Customs - so you don’t pay tax on contributions
   - flexible and allows you to take some of it as a tax-free lump sum
 
-[Find out more from Teachers’ Pensions](# "external-inline").
+[Find out more from Teachers’ Pensions](https://www.teacherspensions.co.uk/members/new-starter.aspx "external-inline").
