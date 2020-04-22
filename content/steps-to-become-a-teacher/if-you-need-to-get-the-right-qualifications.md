@@ -34,7 +34,7 @@ Search [UCAS](https://digital.ucas.com/search "external-inline") to find a degre
 
 Sign up to get support from a teacher training adviser, who can help you with your personal statement, which funding you can get and how to complete your application.
 
-[Sign up for a teacher training adviser](# "external")
+[Sign up for a teacher training adviser](https://register.getintoteaching.education.gov.uk/register "external")
 }
 
 section{
@@ -47,6 +47,34 @@ We can also give you a free UK National Recognition Information Centre (UK NARIC
 If you’re a graduate from outside the European Economic Area (EEA), you may need to apply for a visa before starting your teacher training course.
 
 Contact the school or university you want to train with to find out.
+}
+
+section{
+##If your degree is not in the subject you want to teach
+
+If you need to top up your knowledge of the subject you want to teach, you could take a subject knowledge enhancement course (SKE). An SKE may be right for you if:
+
+  - your degree is not in the subject you want to teach, but is related
+  - you studied the subject at A level, but not at degree level
+  - you have an unrelated degree, but relevant professional experience in the subject
+  - it’s been some time since you used your degree knowledge
+
+You can do an SKE course in:
+  - maths
+  - physics
+  - languages
+  - chemistry
+  - computer studies
+  - biology
+  - English
+  - geography
+  - design and technology
+  - religious education
+  - primary maths
+
+Courses last between 8 and 28 weeks. SKE courses are funded, so you will not have to pay any tuition fees. You may also be eligible for a bursary of £5,600 for a 28-week course or £2,400 for a shorter course of 12 weeks.
+
+If you think an SKE course will help you, contact the schools or universities you want to apply to for more information.
 }
 
 section{

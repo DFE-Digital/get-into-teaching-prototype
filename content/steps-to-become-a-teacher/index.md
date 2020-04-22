@@ -31,7 +31,7 @@ To study for ITT, you’ll need:
 
 If you do not have GCSEs in English, maths and science, you’ll need to show that you have an equivalent level of education.
 
-[If your degree is not in the subject you want to teach](./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching "internal")
+[If your degree is not in the subject you want to teach](./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach "internal")
   </li>
 
   <li markdown="1">

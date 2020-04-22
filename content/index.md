@@ -11,11 +11,11 @@ no_title: true
 <div class="panel panel-real-stories" markdown="1">
 #Why I became a teacher
 
-![Theo's Story](./assets/images/case-study-video.png)
+[![Paul's Story](./assets/images/case-study-video.png)](./life-as-a-teacher/real-stories#climbing-the-career-ladder)
 
-How Theo swapped his job in an office to become an English teacher.
+As a newly qualified teacher, Paul was keen to move up the teaching career ladder.
 
-[Read Theo's story and others](./life-as-a-teacher/real-stories "internal")
+[Read Paul's story and others](./life-as-a-teacher/real-stories#climbing-the-career-ladder "internal")
 </div>
 
 <div class="panel-top"></div>
@@ -27,11 +27,11 @@ How Theo swapped his job in an office to become an English teacher.
 <div class="panel-bottom"></div>
 
 <div class="panel panel-sign-up-for-advisor" markdown="1">
-[![Get advice from a teacher training advisor](./assets/images/advice-from-tta.png)](#)
+[![Get advice from a teacher training advisor](./assets/images/advice-from-tta.png)](https://register.getintoteaching.education.gov.uk/register)
 
 Sign up and get advice on how to take your next steps into teaching
 
-[Sign up for an advisor](# "external")
+[Sign up for an advisor](https://register.getintoteaching.education.gov.uk/register "external")
 </div>
 
 <div class="panel panel-find-an-event" markdown="1">
