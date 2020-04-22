@@ -97,7 +97,7 @@ School-led training may be the right choice for you if you want to:
 
 [Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
 
-There are some other, [specialist ways](./degree-is-not-in-the-subject-you-want-to-teach#specialist-ways-to-get-into-teaching) to get into teaching which you can apply for too. These include:
+There are some other, [specialist ways to get into teaching](./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching) which you can apply for too. These include:
 
   - School Direct salaried places
   - Postgraduate teaching apprenticeship
