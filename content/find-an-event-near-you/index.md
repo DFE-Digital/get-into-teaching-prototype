@@ -27,5 +27,3 @@ Check the timetable of the event before you go to make sure you don't miss anyth
 
 </form>
 <div class="form-bottom"></div>
-
-If you’d like to advertise your teaching event in the listing, please [fill in our online form](#)
