@@ -23,7 +23,6 @@ If your subject is not listed, there is not a bursary or scholarship available. 
 If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.
 
 | Subject | Bursary | Scholarship |
-
 | Chemistry | £26,000 | £28,000 |
 | Languages - French, German or Spanish | £26,000 | £28,000 |
 | Maths | £26,000 | £28,000 |
