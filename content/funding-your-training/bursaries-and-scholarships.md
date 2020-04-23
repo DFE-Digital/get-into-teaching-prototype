@@ -22,21 +22,57 @@ If your subject is not listed, there is not a bursary or scholarship available. 
 
 If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.
 
-| Subject | Bursary | Scholarship |
-| Chemistry | £26,000 | £28,000 |
-| Languages - French, German or Spanish | £26,000 | £28,000 |
-| Maths | £26,000 | £28,000 |
-| Physics | £26,000 | £28,000 |
-| Computer science | £26,000 | £28,000 |
-| Biology | £26,000 | |
-| Classics (if the course is in Latin or Ancient Greek) | £26,000 | |
-| Geography | £15,000 | £17,000 |
-| Design and technology | £15,000 | |
-| English | £12,000 | |
-| History, RE, business studies | £9,000 | |
-| Art and design, music | £9,000 | |
-| Primary with maths (if you have maths A level at grade B or equivalent) | £6,000 | |
+####Chemistry
+| Bursary | £26,000 |
+| Scholarship | £28,000 |
 
+####Languages - French, German or Spanish
+| Bursary | £26,000 |
+| Scholarship | £28,000 |
+
+####Maths
+| Bursary | £26,000 |
+| Scholarship | £28,000 |
+
+####Physics
+| Bursary | £26,000 |
+| Scholarship | £28,000 |
+
+####Computer science
+| Bursary | £26,000 |
+| Scholarship | £28,000 |
+
+####Biology
+| Bursary | £26,000 |
+| Scholarship | - |
+
+####Classics (if the course is in Latin or Ancient Greek)
+| Bursary | £26,000 |
+| Scholarship | - |
+
+####Geography
+| Bursary | £15,000 |
+| Scholarship | £17,000 |
+
+####Design and technology
+| Bursary | £15,000 |
+| Scholarship | - |
+
+####English
+| Bursary | £12,000 |
+| Scholarship | - |
+
+####History, RE, business studies
+| Bursary | £9,000 |
+| Scholarship | - |
+
+####Art and design, music
+| Bursary | £9,000 |
+| Scholarship | - |
+
+####Primary with maths (if you have maths A level at grade B or equivalent)
+| Bursary | £6,000 |
+| Scholarship | - |
 
 ##Get help to apply for a scholarship
 
