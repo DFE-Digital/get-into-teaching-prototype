@@ -30,7 +30,7 @@ If you have an unrelated degree, but you studied the subject you want to teach a
 | Computer science | £26,000 | £28,000 |
 | Biology | £26,000 | |
 | Classics (if the course is in Latin or Ancient Greek) | £26,000 | |
-| Geography | £15,000 | £17,000 I
+| Geography | £15,000 | £17,000 |
 | Design and technology | £15,000 | |
 | English | £12,000 | |
 | History, RE, business studies | £9,000 | |

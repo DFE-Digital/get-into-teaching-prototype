@@ -7,6 +7,8 @@ backlink: "../../"
 section{
 ##From senior associate lawyer to assistant headteacher  
 
+![Helen's Story](../../assets/images/case-study-helen.png)
+
 ###Helen Winter, director of teaching school and assistant headteacher
 
 <p class="lead">Helen went on a journey to transition from lawyer to teacher - and hasn't looked back since. She is now on the same salary as she was as a senior associate lawyer. In addition, Helen’s progression to a leadership group teacher was also quick.</p>
@@ -32,6 +34,8 @@ If you want a career that provides you with job satisfaction and swift progressi
 
 section{
 ##Owen’s rapid career ascent
+
+![Owen's Story](../../assets/images/case-study-owen.png)
 
 ###Dr Owen Mather, leader of teaching standards
 
@@ -113,6 +117,8 @@ Thousands of people successfully retrain as teachers every year, and applying fo
 section{
 ##From NQT to head of biology in two years
 
+![Sarah's Story](../../assets/images/case-study-sarah.png)
+
 ###Sarah Fisher, head of biology
 
 <p class="lead">Sarah never saw herself working in a nine-to-five office job, and has embraced the challenges and career progression teaching has to offer. She made the jump from NQT to head of biology in just two years.</p>
@@ -153,11 +159,11 @@ To brush up on a chosen teaching subject that wasn’t part of his degree, Olly 
 > “I chose physics as I had always loved the subject for its precision and clarity, and I wanted to teach a range of ages, which may not have been possible teaching my degree subjects.”
 He was offered a job at one of his placement schools, and his rapid climb up the career ladder shows how quickly you can progress as a teacher. Here’s a rough lowdown on his ascent from new graduate to assistant head in just six years:
 
-Year 1: induction year as a newly qualified teacher (NQT)
-Year 2: promoted to assistant head of sixth form
-Year 3: becomes the achievement coordinator for Year 13; starts teaching economics alongside physics
-Year 5: becomes head of sixth form on maternity cover
-Year 6: moves on to a new school as assistant headteacher
+  - Year 1: induction year as a newly qualified teacher (NQT)
+  - Year 2: promoted to assistant head of sixth form
+  - Year 3: becomes the achievement coordinator for Year 13; starts teaching economics alongside physics
+  - Year 5: becomes head of sixth form on maternity cover
+  - Year 6: moves on to a new school as assistant headteacher
 
 > “I feel that I have learned a huge amount over the past six years, and have developed as a teacher and leader by working alongside talented, hard-working members of staff,” says Olly. “Every day really is different, and I always leave work challenged and satisfied.”
 </div>
@@ -165,6 +171,8 @@ Year 6: moves on to a new school as assistant headteacher
 
 section{
 ##Become a role model in your school
+
+![Karen's Story](../../assets/images/case-study-karen.png)
 
 ###Karen Falcon, head of geography
 
