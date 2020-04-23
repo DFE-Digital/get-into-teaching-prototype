@@ -126,6 +126,13 @@ em, i {
 a {
   color: #3986C4;
   text-decoration: underline;
+
+  cursor: pointer;
+}
+
+a.external-inline {
+  background: url("https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.png?325de") center right no-repeat;
+  padding-right: 14px;
 }
 
 li {
@@ -145,6 +152,8 @@ li {
 
   color: white;
   background-color: #3986C4;
+
+  cursor: pointer;
 }
 
 .internal {
@@ -160,6 +169,8 @@ li {
 
   color: white;
   background-color: #3986C4;
+
+  cursor: pointer;
 }
 
 .internal .arrow {
@@ -185,13 +196,18 @@ h1 {
 
   font-size: 35px;
   line-height: 41px;
+}
 
-  text-decoration: underline;
+h1 span {
+  border-bottom: 2px solid white;
+  text-decoration: none;
 }
 
 h1 a {
   color: white;
   display: inline-block;
+  
+  text-decoration: none;
 }
 
 h2 {
@@ -277,6 +293,8 @@ li {
   margin-top: 52px;
 
   width: 48px;
+
+  cursor: pointer;
 }
 
 .nav-toggle {
@@ -400,6 +418,8 @@ blockquote {
 
   color: white;
   background-color: #3986C4;
+
+  cursor: pointer;
 }
 
 .step-by-step .twiddle {
@@ -427,7 +447,7 @@ blockquote {
   border-radius: 46px;
   border: 2px solid white;
   top: 50%;
-  left: 16px;
+  left: 22px;
   margin-top: -22px;
   background: #D54692;
   color: white;
@@ -635,6 +655,8 @@ section img,
 
   color: white;
   background-color: #3986C4;
+
+  cursor: pointer;
 }
 
 .case-study-link .twiddle {
@@ -663,4 +685,24 @@ section img,
 }
 .case-study-body.closed {
   height: 0;
+}
+
+.funding-table h4 {
+  margin-bottom: 0;
+  padding: 8px 8px 4px;
+
+  font-size: 16px;
+  line-height: 18px;
+  text-align: left;
+  text-decoration: none;
+
+  color: white;
+  background-color: #3986C4;
+}
+
+.funding-table table {
+  margin-bottom: 25px;
+  width: 100%;
+  font-weight: bold;
+  color: #444;
 }

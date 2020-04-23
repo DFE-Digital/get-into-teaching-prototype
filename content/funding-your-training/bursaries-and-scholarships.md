@@ -22,57 +22,73 @@ If your subject is not listed, there is not a bursary or scholarship available. 
 
 If you have an unrelated degree, but you studied the subject you want to teach at A level (or you have got professional experience in it) you could get a bursary for a subject knowledge enhancement course.
 
+<div class="funding-table" markdown="1">
 ####Chemistry
+
 | Bursary | £26,000 |
 | Scholarship | £28,000 |
 
 ####Languages - French, German or Spanish
+
 | Bursary | £26,000 |
 | Scholarship | £28,000 |
 
 ####Maths
+
 | Bursary | £26,000 |
 | Scholarship | £28,000 |
 
 ####Physics
+
 | Bursary | £26,000 |
 | Scholarship | £28,000 |
 
 ####Computer science
+
 | Bursary | £26,000 |
 | Scholarship | £28,000 |
 
 ####Biology
+
 | Bursary | £26,000 |
 | Scholarship | - |
 
 ####Classics (if the course is in Latin or Ancient Greek)
+
 | Bursary | £26,000 |
 | Scholarship | - |
 
 ####Geography
+
 | Bursary | £15,000 |
 | Scholarship | £17,000 |
 
 ####Design and technology
+
 | Bursary | £15,000 |
 | Scholarship | - |
 
 ####English
+
 | Bursary | £12,000 |
 | Scholarship | - |
 
 ####History, RE, business studies
+
 | Bursary | £9,000 |
 | Scholarship | - |
 
 ####Art and design, music
+
 | Bursary | £9,000 |
 | Scholarship | - |
 
 ####Primary with maths (if you have maths A level at grade B or equivalent)
+
 | Bursary | £6,000 |
 | Scholarship | - |
+
+</div>
 
 ##Get help to apply for a scholarship
 
@@ -80,20 +96,20 @@ You can get help to apply for a scholarship by using our Teacher Training Advise
 
 ##Scholarship awarding bodies by subject
 
-Computer science
+**Computer science**  
 BCS The Chartered Institute for IT
 
-Chemistry
+**Chemistry**  
 RSC The Royal Society of Chemistry
 
-Geography
+**Geography**  
 The Royal Geographical Society (with IBG)
 
-Languages
+**Languages**  
 The British Council
 
-Maths
+**Maths**  
 Mathematics Teacher Training Scholarships
 
-Physics
+**Physics**  
 Insitute of Physics
