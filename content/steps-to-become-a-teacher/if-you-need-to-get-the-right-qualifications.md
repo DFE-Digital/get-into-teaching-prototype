@@ -101,5 +101,10 @@ You’ll need (or be about to finish) a doctorate in the subject you want to tea
 
 If you’re a teaching assistant or unqualified teacher with two years’ experience you can be assessed over 12 weeks to get QTS. This way of getting QTS will not give you a PGCE. You’ll only need a PGCE if you want to do a master’s qualification or teach outside the UK.
 
+###Postgraduate Early Years Initial Teacher Training (EYITT)
+
+A number of postgraduate Early Years Initial Teacher Training (EYITT) courses are available at university or via a school-led route – all lead to Early Years Teacher Status (EYTS) on successful completion. EYTS is different to QTS in that you specialise in working with children up to five years old only.
+
+
 [Find a school-led teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
 }
