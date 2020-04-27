@@ -28,9 +28,9 @@ If you want to teach in a primary or secondary school you can apply for postgrad
 To study for ITT, you’ll need:
 
   - grade 4 (C) or above in English and maths GCSE
-  - grade 4 (C) or above in GCSE science if you want to teach primary
+  - science GCSE grade 4 (C) or above, if you want to teach at primary school
 
-If you do not have GCSEs in English, maths and science, you’ll need to show that you have an equivalent level of education.
+If you do not have the required GCSEs, you’ll need to show that you have an equivalent level of education.
 
 [If your degree is not in the subject you want to teach](./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach "internal")
   </li>
@@ -69,8 +69,9 @@ For primary and secondary school teaching you’ll do postgraduate Initial Teach
 Both types of training will give you lots of classroom experience and the knowledge to teach successfully. The type of course you choose will depend on whether you want to study at a university or be based in a school.
 
 ####Train at university
+You’ll do a postgraduate certificate in education (PGCE) or a postgraduate diploma in education (PGDE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option. 
 
-You’ll do a postgraduate certificate in education (PGCE) to give you QTS. Most courses are full time for one year. You may be able to study part time if the university you choose has this option. During your course you will:
+During your course you will:
 
   - study on campus
   - spend 24 weeks on school placements at 2 schools
@@ -84,10 +85,7 @@ Training at university may be the right choice for you if it’s important to yo
 
 ####Train in a school
 
-Training to teach in a school will usually take 1 year. You’ll spend your time:
-
-learning from experienced teachers by working in the school team
-studying the theory of teaching at college or university
+This will usually take 1 year. You’ll spend your time learning from experienced teachers by working in the school team whilst studying the theory of teaching at college or university.  These courses lead to QTS and most include a PGCE qualification too, but it’s worth checking with your training provider first to make sure. 
 
 Training to teach in a school is often called school-led training.
 
@@ -98,13 +96,14 @@ School-led training may be the right choice for you if you want to:
 
 [Find a teacher training course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
 
-There are some other, [specialist ways to get into teaching](./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching) which you can apply for too. These include:
+There are some other [specialist training options](./if-you-need-to-get-the-right-qualifications#specialist-ways-to-get-into-teaching) to get into teaching. These include:
 
   - School Direct salaried places
   - Postgraduate teaching apprenticeship
   - Teach First
   - Researchers in schools
   - Assessment only (AO)
+  - Postgraduate Early Years Initial Teacher Training (EYITT)
   </li>
 
   <li markdown="1">
