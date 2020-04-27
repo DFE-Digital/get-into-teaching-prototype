@@ -15,6 +15,11 @@ quick{
 }
 
 section{
+You can only apply for a training programme when it’s open. Applications for 2020 entry opened on 8 October 2019.
+Places are allocated on a first-come, first-served basis, so be aware that popular courses will fill up quickly. Some subjects have a limited number of places available, so don't leave your application to the last minute.
+}
+
+section{
 ##Choose a course
 You can use the [Find postgraduate teacher training](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline") service to search for courses in your area as well as further afield.
 
