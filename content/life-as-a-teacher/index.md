@@ -1,5 +1,5 @@
 ---
-title: "Life as a teacher"
+title: "Teaching as a career"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../"
 ---
@@ -15,7 +15,7 @@ In addition to the day job you can get involved in after-school activities, club
 
 [Why I became a teacher](./real-stories "internal")
 
-[Find out about Teachers’ salaries and other financial benefits](./teachers-salaries-and-benefits "internal")
+[Salaries and other financial benefits](./teachers-salaries-and-benefits "internal")
 
 ##Career progression
 Training to be a teacher will give you the opportunities to add to your professional skills and help you achieve your ambitions.
