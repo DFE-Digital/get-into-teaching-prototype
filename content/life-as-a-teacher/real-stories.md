@@ -1,5 +1,5 @@
 ---
-title: "Why I became a teacher"
+title: "My story into teaching"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
