@@ -13,7 +13,7 @@ As a teacher you can help children develop their talents and expand your own ski
 
 In addition to the day job you can get involved in after-school activities, clubs, trips or sport.
 
-[Why I became a teacher](./real-stories "internal")
+[My story into teaching](./real-stories "internal")
 
 [Salaries and other financial benefits](./teachers-salaries-and-benefits "internal")
 
