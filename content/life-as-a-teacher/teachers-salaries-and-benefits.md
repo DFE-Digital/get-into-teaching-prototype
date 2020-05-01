@@ -1,5 +1,5 @@
 ---
-title: "Teachers' salaries and benefits"
+title: "Salaries and benefits"
 image: "/assets/images/life-as-a-teacher-header.jpg"
 backlink: "../../"
 ---
