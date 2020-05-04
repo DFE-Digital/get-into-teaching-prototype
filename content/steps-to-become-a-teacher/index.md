@@ -127,7 +127,7 @@ There are some other [specialist training options](./if-you-need-to-get-the-righ
 Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](https://qa.apply-for-teacher-training.education.gov.uk/candidate "external-inline") using the following steps:
 
 
-  - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
+  - [Choose your course].(https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline")
   - Write a personal statement.
   - Get two references.
   - Apply for teacher training.
