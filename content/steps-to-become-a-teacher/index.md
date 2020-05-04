@@ -34,9 +34,25 @@ If you do not have the required GCSEs, you’ll need to show that you have an eq
 
 [If your degree is not in the subject you want to teach](./if-you-need-to-get-the-right-qualifications#if-your-degree-is-not-in-the-subject-you-want-to-teach "internal")
   </li>
+  
+<li markdown="1"> 
+  <h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">2</span></span> Find out about funding <span class="twiddle"></span></h3>
+There are a number of different ways you can get funding to train as a teacher in England.  
+ 
+These may vary, depending on: 
+ 
+ - which subject you’re going to teach
+ - if you’re going to teach in secondary or primary school 
+ - whether you can get a scholarship
+ - if you qualify for a bursary 
+ 
+[Find out more](../funding-your-training) about the funding you could get. 
+
+</div>
+  </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">2</span></span> Get school experience <span class="twiddle"></span></h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">3</span></span> Get school experience <span class="twiddle"></span></h3>
 
 You’ll find it useful to get some classroom experience, although it’s not compulsory. You’ll see teaching in action and get a taste of school life. Spending time in a school will also help you understand some of the skills and qualities teachers have. Teachers need the ability to:
 
@@ -59,7 +75,7 @@ STEM stands for science, technology, engineering and mathematics and refers to a
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">3</span></span> Decide how to train <span class="twiddle"></span></h3>
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Decide how to train <span class="twiddle"></span></h3>
 
 For primary and secondary school teaching you’ll do postgraduate Initial Teacher Training (ITT) to give you QTS. You could do your training:
 
@@ -107,8 +123,9 @@ There are some other [specialist training options](./if-you-need-to-get-the-righ
   </li>
 
   <li markdown="1">
-<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">4</span></span> Application process <span class="twiddle"></span></h3>
-Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](../how-to-apply) using the following steps.
+<h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">5</span></span> Application process <span class="twiddle"></span></h3>
+Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](https://qa.apply-for-teacher-training.education.gov.uk/candidate "external-inline") using the following steps:
+
 
   - [Choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external-inline").
   - Write a personal statement.
