@@ -124,13 +124,13 @@ There are some other [specialist training options](./if-you-need-to-get-the-righ
   <li markdown="1">
 <h3 class="step-by-step-toggle"><span class="step"><span class="step-label">STEP</span> <span class="step-number">5</span></span> Application process <span class="twiddle"></span></h3>
 
-Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](https://qa.apply-for-teacher-training.education.gov.uk/candidate "external") using the following steps:
+Once you have decided that you want to train to become a teacher and have the necessary qualifications you’ll need to [prepare your application](https://qa.apply-for-teacher-training.education.gov.uk/candidate "external")using the following steps:
 
 
-  - [Choose your course].(https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
-  - Write a personal statement.
-  - Get two references.
-  - Apply for teacher training.
+  - [choose your course](https://www.gov.uk/find-postgraduate-teacher-training-courses "external")
+  - write a personal statement
+  - get two references
+  - [apply for teacher training](https://qa.apply-for-teacher-training.education.gov.uk/candidate "external")
   </li>
 </ol>
 
