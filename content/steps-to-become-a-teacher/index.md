@@ -48,7 +48,6 @@ These may vary, depending on:
  
 [Find out more](../funding-your-training) about the funding you could get. 
 
-</div>
   </li>
 
   <li markdown="1">
