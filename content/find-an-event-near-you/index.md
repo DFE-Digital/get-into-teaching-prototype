@@ -4,16 +4,38 @@ image: "/assets/images/events-header.jpg"
 backlink: "../"
 ---
 
-Get one-to-one advice about how you can train.
+#Find an event near you
 
-You'll be able to:
+Our nationwide events are informal opportunities for you to get free expert advice about your next steps into teaching. 
 
-  - talk to teachers and students and find out what teaching is really like ask about the best way for you to train
-  - find out how to fund your course meet local schools and universities that offer training
+##Types of events
 
-Events are informal and you can drop in at any time.
+###Train to Teach
 
-Check the timetable of the event before you go to make sure you don't miss anything.
+At our Train to Teach events, you can meet experienced teaching professionals who can answer all of your questions. 
+
+You’ll get the chance to:
+- speak to experts about ways into teacher training and available funding
+- talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like
+- get advice on your teacher training application
+- meet schools and universities in your area to help you decide where to train and how to apply
+
+You can drop in at any time. Allow at least two hours to make the most of your visit. [Train to Teach presentations](https://drive.google.com/file/d/1OuHTmB1j-ceovpLQw96UGhs_07ALWvlK/view) run hourly throughout the event. 
+
+Check event timetables to make sure you don’t miss anything.
+
+###Online
+
+These interactive sessions let you talk with a panel of specialist advisers and get questions answered within minutes. See what matters to other potential trainee teachers too. Joining a conversation is easy – check in regularly to see what discussions we’ve got lined up.
+
+###School and university events
+
+Schools and universities that run teacher training courses often hold their own events. Typically they cover areas such as:
+- course information
+- application advice
+- school experience
+- opportunities to talk to current trainees or staff
+
 
 <div class="form-top"></div>
 <form action="." method="get" markdown="1">
