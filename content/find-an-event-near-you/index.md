@@ -4,7 +4,6 @@ image: "/assets/images/events-header.jpg"
 backlink: "../"
 ---
 
-#Find an event near you
 
 Our nationwide events are informal opportunities for you to get free expert advice about your next steps into teaching. 
 
@@ -15,10 +14,10 @@ Our nationwide events are informal opportunities for you to get free expert advi
 At our Train to Teach events, you can meet experienced teaching professionals who can answer all of your questions. 
 
 You’ll get the chance to:
-- speak to experts about ways into teacher training and available funding
-- talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like
-- get advice on your teacher training application
-- meet schools and universities in your area to help you decide where to train and how to apply
+* speak to experts about ways into teacher training and available funding
+* talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like
+* get advice on your teacher training application
+* meet schools and universities in your area to help you decide where to train and how to apply
 
 You can drop in at any time. Allow at least two hours to make the most of your visit. [Train to Teach presentations](https://drive.google.com/file/d/1OuHTmB1j-ceovpLQw96UGhs_07ALWvlK/view) run hourly throughout the event. 
 
@@ -31,10 +30,10 @@ These interactive sessions let you talk with a panel of specialist advisers and 
 ###School and university events
 
 Schools and universities that run teacher training courses often hold their own events. Typically they cover areas such as:
-- course information
-- application advice
-- school experience
-- opportunities to talk to current trainees or staff
+* course information
+* application advice
+* school experience
+* opportunities to talk to current trainees or staff
 
 
 <div class="form-top"></div>
