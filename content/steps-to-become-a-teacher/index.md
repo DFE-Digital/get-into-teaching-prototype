@@ -135,6 +135,7 @@ Once you have decided that you want to train to become a teacher and have the ne
 </ol>
 
 }
+_________________________________
 
 ##Training to teach children with special educational needs and/or disabilities (SEND)
 
