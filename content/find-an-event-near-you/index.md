@@ -14,6 +14,7 @@ Our nationwide events are informal opportunities for you to get free expert advi
 At our Train to Teach events, you can meet experienced teaching professionals who can answer all of your questions. 
 
 You’ll get the chance to:
+
 * speak to experts about ways into teacher training and available funding
 * talk one-to-one with experienced and newly qualified teachers to find out what teaching is really like
 * get advice on your teacher training application
