@@ -7,9 +7,9 @@ backlink: "../"
 
 Our nationwide events are informal opportunities for you to get free expert advice about your next steps into teaching. 
 
-##Types of events
+## Types of events
 
-###Train to Teach
+### Train to Teach
 
 At our Train to Teach events, you can meet experienced teaching professionals who can answer all of your questions. 
 
@@ -23,13 +23,14 @@ You can drop in at any time. Allow at least two hours to make the most of your v
 
 Check event timetables to make sure you don’t miss anything.
 
-###Online
+### Online
 
 These interactive sessions let you talk with a panel of specialist advisers and get questions answered within minutes. See what matters to other potential trainee teachers too. Joining a conversation is easy – check in regularly to see what discussions we’ve got lined up.
 
-###School and university events
+### School and university events
 
 Schools and universities that run teacher training courses often hold their own events. Typically they cover areas such as:
+
 * course information
 * application advice
 * school experience
@@ -39,7 +40,7 @@ Schools and universities that run teacher training courses often hold their own 
 <div class="form-top"></div>
 <form action="." method="get" markdown="1">
 
-##Search for event near you
+## Search for event near you
 
 <label for="postcode">Enter your postcode</label>
 
